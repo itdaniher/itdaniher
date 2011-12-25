@@ -95,14 +95,6 @@ explodingmind@gmail.com
  * Winter 2007
  * Contracted to build a small microcontroller based electromechanical system for a magic trick.
 
------
-
-### Skills
-
-* Proficient with BASH, Python, Matlab, embedded C
-* Proficient with OSX, Windows XP/Vista, and Linux distributions including Debian, Ubuntu, and Fedora.
-* Familiar with digital communication protocols including I2C, SPI, and USB.
-
 [Nonolith]: http://nonolithlabs.com/  "Nonolith Labs"
 [CHCA]: http://www.chca-oh.org/ "Cincinnati Hills Christian Academy"
 [CEE]: http://nonolithlabs.com/cee "The CEE"
