@@ -38,11 +38,11 @@ explodingmind@gmail.com
  * Sept. 2008 - Jun. 2009 
  * Lead the 08-09 [CHCA][CHCA] Science Olympiad team to 8th place out of 22 teams.
 
-* Cincinnati Hills Christian Academy
+* Cincinnati Hills Christian Academy: Student
  * Sept. 2006 - Jun. 2009 
  * Graduated from [CHCA][CHCA], took classes including AP Latin, AP Chem, AP Physics, AP Calc, AP English.
 
-* InterAlliance Group Leader
+* InterAlliance: Group Leader
  * Aug. 2007
  * IT summer camp / technical design competition. Led INTERalliance team to second-place position.
  * Was given “Mr. InterAlliance” award “For best typifying the values, goals, and mission of the INTERalliance of Greater Cincinnati at the 2007 IT Careers Camp” 
@@ -61,7 +61,7 @@ explodingmind@gmail.com
 
 * [Motion-Reactive Glow Toy - Protoflo](http://github.com/itdaniher/protoflo)
  * Fall 2011
- * Redesigned earlier efforts (see "Synesthesia" below) to be more generally applicable and more hackable. Added USB interface supporting override mode of default behavior.
+ * Redesigned "Synesthesia" to be more generally applicable and more hackable. Added USB interface supporting override of default behavior.
 
 * [USB Temperature Monitor - Thermowut](http://github.com/itdaniher/thermowut)
  * Fall 2011
