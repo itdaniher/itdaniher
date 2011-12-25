@@ -11,35 +11,35 @@ explodingmind@gmail.com
 ### Experiences
 
 * [Nonolith Labs, LLC][Nonolith]: CoFounder
- * Jan. 2011 – Present
- * Co-founded a company building tools enabling  makers and students to better explore the world around them. Raised over 20k via presales of our flagship product(The CEE) through [Kickstarter](http://kickstarter.com).
+ * Jan. 2011 - Present
+ * Co-founded a company building tools enabling  makers and students to better explore the world around them. Raised over 20k via presales of our [flagship product][CEE] through [Kickstarter](http://kickstarter.com).
 
 * iRobot Corporation: Intern
  * Jun. 2011 - Sept. 2011
  * Working as an intern in iRobot’s gov’t/industrial research division building firmware for a novel compliant robotic hand.
 
 * Olin College: Student
- * Aug. 2009 – May 2011
+ * Aug. 2009 - May 2011
  * Currently on leave of absence to pursue [Nonolith Labs.][Nonolith] Candidate for BS in Electrical Engineering.
 
 * OLPCinci XO Repair Center: Founder
- * Summer 2008 – Mar. 2011
+ * Summer 2008 - Mar. 2011
  * Designed and implemented a stop-gap supply chain for repairs in the US and created a model implemented in four other locations. Personally have handled over 300 repair requests.
 
 * IEEE: Chapter Corporate Liaison
- * Oct. 2009 – May 2011
+ * Oct. 2009 - May 2011
  * Responsible for fostering corporate relationships with companies in the electrical engineering sectors.
 
 * One Laptop Per Child: Support Gang Member
- * Sept. 2007 – Jan. 2011
+ * Sept. 2007 - Jan. 2011
  * Provide customer support to owners of XO Laptops. Personally have assisted over 90 individuals in resolving technical/logistical difficulties.
 
 * Science Olympiad: Team Leader
- * Sept. 2008 – Jun. 2009 
+ * Sept. 2008 - Jun. 2009 
  * Lead the 08-09 [CHCA][CHCA] Science Olympiad team to 8th place out of 22 teams.
 
 * Cincinnati Hills Christian Academy
- * Sept. 2006 – Jun. 2009 
+ * Sept. 2006 - Jun. 2009 
  * Graduated from [CHCA][CHCA], took classes including AP Latin, AP Chem, AP Physics, AP Calc, AP English.
 
 * InterAlliance Group Leader
@@ -56,12 +56,16 @@ explodingmind@gmail.com
 ### Things I've Built
 
 * The CEE by [Nonolith Labs][Nonolith]
- * Feb. 2011 - Present
+ * Spring 2011 - Present
  * [The CEE][CEE] is a USB source-measure unit designed to be used as "cavalier instrumentation" - a general purpose tool for the curious to interact with the world around them.
 
 * [Motion-Reactive Glow Toy - Protoflo](http://github.com/itdaniher/protoflo)
- * Sept. 2011
+ * Fall 2011
  * Redesigned earlier efforts (see "Synesthesia" below) to be more generally applicable and more hackable. Added USB interface supporting override mode of default behavior.
+
+* [USB Temperature Monitor - Thermowut](http://github.com/itdaniher/thermowut)
+ * Fall 2011
+ * Designed and built a general purpose temperature monitor/controller.
 
 * [Open-Source Driver for Lab Hardware](http://github.com/itdaniher/Olin-SMUs)
  * Spring 2011
@@ -79,11 +83,11 @@ explodingmind@gmail.com
  * Summer 2010
  * As a part of a summer experiment in hardware design, I co-founded a small business and successfully produced a prototype of a novel motion-reactive glow poi for use in performance arts.
 
-* Computer Based Pinewood Derby Timer
- * Winter 2010, Winter 2011
+* [Computer Based Pinewood Derby Timer](http://github.com/itdaniher/parallelPortTrackTimer)
+ * Spring 2010, Spring 2011
  * Built a parallel-port based pinewood derby timer in Python. Used for Spring 2010/2011 races.
 
-* Web-Controlled Pelletgun Turret
+* [Web-Controlled Pelletgun Turret](http://github.com/itdaniher/turret)
  * Winter 2010
  * Built a small pan/tilt airsoft turret complete with web/iPad control scheme.
 
