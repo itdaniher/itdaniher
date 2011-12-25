@@ -10,9 +10,9 @@ explodingmind@gmail.com
 
 ### Experiences
 
-* Nonolith Labs LLC: CoFounder
+* [Nonolith Labs, LLC][001]: CoFounder
  * Jan. 2011 – Present
- * Co-founded a company building open technologies that help makers and students explore the physical world. Raised over 20k via presales of our flagship product(The CEE) through Kickstarter, a crowdsourced funding program.
+ * Co-founded a company building tools enabling  makers and students to better explore the world around them. Raised over 20k via presales of our flagship product(The CEE) through Kickstarter, a crowdsourced funding program.
 
 * iRobot Corporation: Intern
  * Jun. 2011 - Sept. 2011
@@ -20,7 +20,7 @@ explodingmind@gmail.com
 
 * Olin College: Student
  * Aug. 2009 – May 2011
- * Currently on leave of absence to pursue Nonolith Labs(see above.) Candidate for BS in Electrical Engineering.
+ * Currently on leave of absence to pursue [Nonolith Labs.][001] Candidate for BS in Electrical Engineering.
 
 * OLPCinci XO Repair Center: Founder
  * Summer 2008 – Mar. 2011
@@ -55,19 +55,19 @@ explodingmind@gmail.com
 
 ### Things I've Built
 
-* The CEE
+* The CEE by [Nonolith Labs][001]
  * Feb. 2011 - Present
- * The CEE(Control, Experiment, Explore) is a USB source-measure unit designed to be used as "cavalier instrumentation" - a general purpose tool for the curious to interact with the world around them.
+ * [The CEE](http://nonolithlabs.com/cee) is a USB source-measure unit designed to be used as "cavalier instrumentation" - a general purpose tool for the curious to interact with the world around them.
 
-* Motion-Reactive Glow Toy - Protoflo
+* [Motion-Reactive Glow Toy - Protoflo](http://github.com/itdaniher/protoflo)
  * Sept. 2011
  * Redesigned earlier efforts (see "Synesthesia" below) to be more generally applicable and more hackable. Added USB interface supporting override mode of default behavior.
 
-* Open-Source Driver for Lab Hardware
+* [Open-Source Driver for Lab Hardware](http://github.com/itdaniher/Olin-SMUs)
  * Spring 2011
- * Built a driver for the “source-measure unit” used by Olin College in its introductory electrical engineering classes.
+ * Wrote a Python driver for the homebrew source-measure unit used by Olin College in its introductory electrical engineering classes.
 
-* Open-Source LEGO WeDo Driver
+* [Open-Source LEGO WeDo Driver](http://github.com/itdaniher/WeDoMore)
  * Spring 2011
  * Built a open-source driver for the Lego WeDo educational platform, provided a patch for use with TurtleArt, the graphical LOGO clone shipped by the One Laptop Per Child project.
 
@@ -75,7 +75,7 @@ explodingmind@gmail.com
  * Winter 2011
  * Inspired by an iRobot/Cornell research project, I constructed a pneumatic “jamming” robotic manipulator.
 
-* Motion-Reactive Glow Poi - Synesthesia 
+* Motion-Reactive Glow Poi - Synesthesia
  * Summer 2010
  * As a part of a summer experiment in hardware design, I co-founded a small business and successfully produced a prototype of a novel motion-reactive glow poi for performance arts.
 
@@ -98,3 +98,5 @@ explodingmind@gmail.com
 * Proficient with BASH, Python, Matlab, embedded C
 * Proficient with OSX, Windows XP/Vista, and Linux distributions including Debian, Ubuntu, and Fedora.
 * Familiar with digital communication protocols including I2C, SPI, and USB.
+
+[001]: http://nonolithlabs.com/  "Nonolith Labs"
