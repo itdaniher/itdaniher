@@ -4,22 +4,24 @@ body{
     color: #444444;
     line-height: 1;
     max-width: 960px;
-    padding: 30px;
+    padding: 12px;
 }
 h1, h2, h3, h4 {
     color: #111111;
     font-weight: 400;
 }
 h1, h2, h3, h4, h5, p {
-    margin-bottom: 24px;
+/*    margin-bottom: 24px; */
     padding: 0;
 }
 h1 {
     font-size: 48px;
 }
 h2 {
+	margin-top: 36px;
+/*	border-bottom: 1px solid #999; */
     font-size: 36px;
-    margin: 24px 0 6px;
+	margin-bottom: 8px;
 }
 h3 {
     font-size: 24px;
