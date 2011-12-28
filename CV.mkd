@@ -14,7 +14,9 @@ explodingmind@gmail.com
 
 * CoFounder at [Nonolith Labs, LLC][Nonolith]
  * Jan. 2011 - Present
- * Co-founded a company building tools enabling  makers and students to better explore the world around them. Raised over 20k via presales of our [flagship product][CEE] through [Kickstarter](http://kickstarter.com).
+ * Co-founded a company building tools enabling  makers and students to better explore the world around them. 
+ * Raised over 20k via presales of our [flagship product][CEE] through [Kickstarter](http://kickstarter.com).
+ * As of Dec. 28, we have over two hundred people on our waiting list and parts purchased for a 500u production run.
 
 * Intern at iRobot Corporation
  * Jun. 2011 - Sept. 2011
@@ -34,7 +36,7 @@ explodingmind@gmail.com
 
 * "Support Gang" Member with One Laptop Per Child
  * Sept. 2007 - Jan. 2011
- * Provide customer support to owners of XO Laptops. Personally have assisted over 90 individuals in resolving technical/logistical difficulties.
+ * Provide customer support to owners of [XO Laptops.](http://one.laptop.org/about/hardware) Personally have assisted over 90 individuals in resolving technical/logistical difficulties.
 
 * Team Leader of Science Olympiad
  * Sept. 2008 - Jun. 2009
@@ -60,6 +62,7 @@ explodingmind@gmail.com
 * The CEE by [Nonolith Labs][Nonolith]
  * Spring 2011 - Present
  * [The CEE][CEE] is a USB source-measure unit designed to be used as "cavalier instrumentation" - a general purpose tool for the curious to interact with the world around them.
+ * V1.0 ships on Jan. 31
 
 * [Protoflo, a Motion-Reactive Glow Toy](http://github.com/itdaniher/protoflo)
  * Fall 2011
@@ -93,9 +96,9 @@ explodingmind@gmail.com
  * Winter 2010
  * Built a small pan/tilt airsoft turret complete with web/iPad control scheme.
 
-* Electromechanical Magic Trick
+* Electromechanical Project for Professional Magician
  * Winter 2007
- * Contracted to build a small microcontroller based electromechanical system for a magic trick.
+ * Contracted to build a small microcontroller based system for an electromechanical magic trick. 
 
 [Nonolith]: http://nonolithlabs.com/  "Nonolith Labs"
 [CHCA]: http://www.chca-oh.org/ "Cincinnati Hills Christian Academy"
