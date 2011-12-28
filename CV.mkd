@@ -4,11 +4,9 @@
 ## Ian Daniher 
 
 [@itdaniher](http://twitter.com/itdaniher) | explodingmind@gmail.com | 513-327-8483
+<br>
 
-
-## Experiences
-<p></p>
------
+## Experiences <a id="Experiences"/>
 
 #### CoFounder at [Nonolith Labs, LLC][Nonolith] <time> Jan. 2011 - Present </time>
 
@@ -50,10 +48,8 @@
 
 * Youngest-ever attendee at the IEEE NanoTechnology Symposium
 
-## Things I've Built
-
-<p></p>
------
+<br>
+## Things I've Built <a id="Projects"/>
 
 #### The CEE by [Nonolith Labs][Nonolith] <time> Spring 2011 - Present </time>
 
