@@ -28,7 +28,7 @@ explodingmind@gmail.com
  * Summer 2008 - Mar. 2011
  * Designed and implemented a stop-gap supply chain for repairs in the US and created a model implemented in four other locations. Personally have handled over 300 repair requests.
 
-* Chapter Corporate Liaison with Olin IEEE
+* Corporate Liaison with Olin IEEE
  * Oct. 2009 - May 2011
  * Responsible for fostering corporate relationships with companies in the electrical engineering sectors.
 
@@ -78,7 +78,7 @@ explodingmind@gmail.com
 
 * Pneumatic Gripper
  * Winter 2011
- * Inspired by an iRobot/Cornell research project, I constructed a pneumatic “jamming” robotic manipulator.
+ * Inspired by an [iRobot/Cornell research project](http://www.pnas.org/content/107/44/18809.short), I constructed a pneumatic “jamming” robotic manipulator.
 
 * Synesthesia, a Motion-Reactive Glow Poi
  * Summer 2010
