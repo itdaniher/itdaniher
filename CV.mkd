@@ -1,4 +1,5 @@
 <link href="markdown.css" rel="stylesheet">
+<title> Ian's CV </title>
 
 ## Ian Daniher
 
@@ -7,6 +8,8 @@
 -----
 
 ## Experiences
+
+-----
 
 #### CoFounder at [Nonolith Labs, LLC][Nonolith] <time> Jan. 2011 - Present </time>
 
@@ -51,9 +54,9 @@
 
 * Youngest-ever attendee at the IEEE NanoTechnology Symposium
 
------
-
 ## Things I've Built
+
+-----
 
 #### The CEE by [Nonolith Labs][Nonolith] <time> Spring 2011 - Present </time>
 
@@ -64,7 +67,7 @@
 
 * Redesigned "Synesthesia" to be more generally applicable and more hackable. Added USB interface supporting override of default behavior.
 
-#### [Thermowut, a USB Temperature Monitor](http://github.com/itdaniher/thermowut) <time> Fall 2011 </time>
+#### [Thermowut, a USB Temperature Monitor](http://github.com/nonolith/thermowut) <time> Fall 2011 </time>
 
 * Designed and built a general purpose temperature monitor/controller.
 
