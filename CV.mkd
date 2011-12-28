@@ -24,17 +24,14 @@
 
 * Currently on leave of absence to pursue [Nonolith Labs.][Nonolith] Candidate for BS in Electrical Engineering.
 
-#### Founder at OLPCinci XO Repair Center <time> Summer 2008 - Mar. 2011 </time>
+#### Founder at OLPCinci XO Repair Center <time> Winter 2007 - Mar. 2011 </time>
 
-* Designed and implemented a stop-gap supply chain for repairs in the US and created a model implemented in four other locations. Personally have handled over 300 repair requests.
+* Worked with the One Laptop Per Child "Support Gang" to design and implement a supply chain for repairs of [XO Laptops](http://one.laptop.org/about/hardware).
+* Built a small business out of familiarity with this hardware and handled over 300 repair requests, in addition to over 100 non-repair tickets resolved.
 
 #### Corporate Liaison with Olin IEEE <time> Oct. 2009 - May 2011 </time>
 
 * Responsible for fostering corporate relationships with companies in the electrical engineering sectors.
-
-#### "Support Gang" Member with One Laptop Per Child <time> Sept. 2007 - Jan. 2011 </time>
-
-* Provide customer support to owners of [XO Laptops.](http://one.laptop.org/about/hardware) Personally have assisted over 90 individuals in resolving technical/logistical difficulties.
 
 #### Team Leader of Science Olympiad <time> Sept. 2008 - Jun. 2009 </time>
 
