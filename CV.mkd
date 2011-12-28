@@ -1,14 +1,13 @@
 <link href="markdown.css" rel="stylesheet">
 <title> Ian's CV </title>
 
-## Ian Daniher
+## Ian Daniher 
 
 [@itdaniher](http://twitter.com/itdaniher) | explodingmind@gmail.com | 513-327-8483
 
------
 
 ## Experiences
-
+<p></p>
 -----
 
 #### CoFounder at [Nonolith Labs, LLC][Nonolith] <time> Jan. 2011 - Present </time>
@@ -56,6 +55,7 @@
 
 ## Things I've Built
 
+<p></p>
 -----
 
 #### The CEE by [Nonolith Labs][Nonolith] <time> Spring 2011 - Present </time>
