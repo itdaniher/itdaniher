@@ -37,11 +37,11 @@ explodingmind@gmail.com
  * Provide customer support to owners of XO Laptops. Personally have assisted over 90 individuals in resolving technical/logistical difficulties.
 
 * Team Leader of Science Olympiad
- * Sept. 2008 - Jun. 2009 
+ * Sept. 2008 - Jun. 2009
  * Lead the 08-09 [CHCA][CHCA] Science Olympiad team to 8th place out of 22 teams.
 
 * Student at Cincinnati Hills Christian Academy
- * Sept. 2006 - Jun. 2009 
+ * Sept. 2006 - Jun. 2009
  * Graduated from [CHCA][CHCA], took classes including AP Latin, AP Chem, AP Physics, AP Calc, AP English.
 
 * Team Leader at InterAlliance
@@ -52,6 +52,7 @@ explodingmind@gmail.com
 * Attendee at IEEE NanoTech Conference
  * Jul. 2006
  * Youngest-ever attendee at the IEEE NanoTechnology Symposium
+
 -----
 
 ### Things I've Built
@@ -78,7 +79,7 @@ explodingmind@gmail.com
 
 * Pneumatic Gripper
  * Winter 2011
- * Inspired by an [iRobot/Cornell research project](http://www.pnas.org/content/107/44/18809.short), I constructed a pneumatic “jamming” robotic manipulator.
+ * Inspired by an [iRobot/Cornell research project](http://www.pnas.org/content/107/44/18809.short), I constructed a pneumatic "jamming" robotic manipulator.
 
 * Synesthesia, a Motion-Reactive Glow Poi
  * Summer 2010
