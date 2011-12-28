@@ -1,100 +1,100 @@
 <link href="markdown.css" rel="stylesheet">
 
-### Ian Daniher
+## Ian Daniher
 
 [@itdaniher](http://twitter.com/itdaniher) | explodingmind@gmail.com | 513-327-8483
 
 -----
 
-### Experiences
+## Experiences
 
-* CoFounder at [Nonolith Labs, LLC][Nonolith]
- * Jan. 2011 - Present
- * Co-founded a company building tools enabling  makers and students to better explore the world around them. 
- * Raised over 20k via presales of our [flagship product][CEE] through [Kickstarter](http://kickstarter.com).
- * As of Dec. 28, we have over two hundred people on our waiting list and parts purchased for a 500u production run.
+#### CoFounder at [Nonolith Labs, LLC][Nonolith] <time> Jan. 2011 - Present </time>
 
-* Intern at iRobot Corporation
- * Jun. 2011 - Sept. 2011
- * Working as an intern in iRobot's gov't/industrial research division building firmware for a novel compliant robotic hand.
+* Co-founded a company building tools enabling  makers and students to better explore the world around them. 
+* Raised over 20k via presales of our [flagship product][CEE] through [Kickstarter](http://kickstarter.com).
+* As of Dec. 28, we have over two hundred people on our waiting list and parts purchased for a 500u production run.
 
-* Student at Olin College
- * Aug. 2009 - May 2011
- * Currently on leave of absence to pursue [Nonolith Labs.][Nonolith] Candidate for BS in Electrical Engineering.
+#### Intern at iRobot Corporation <time> Jun. 2011 - Sept. 2011 </time>
 
-* Founder at OLPCinci XO Repair Center
- * Summer 2008 - Mar. 2011
- * Designed and implemented a stop-gap supply chain for repairs in the US and created a model implemented in four other locations. Personally have handled over 300 repair requests.
+* Working as an intern in iRobot's gov't/industrial research division building firmware for a novel compliant robotic hand.
 
-* Corporate Liaison with Olin IEEE
- * Oct. 2009 - May 2011
- * Responsible for fostering corporate relationships with companies in the electrical engineering sectors.
+#### Student at Olin College <time> Aug. 2009 - May 2011 </time>
 
-* "Support Gang" Member with One Laptop Per Child
- * Sept. 2007 - Jan. 2011
- * Provide customer support to owners of [XO Laptops.](http://one.laptop.org/about/hardware) Personally have assisted over 90 individuals in resolving technical/logistical difficulties.
+* Currently on leave of absence to pursue [Nonolith Labs.][Nonolith] Candidate for BS in Electrical Engineering.
 
-* Team Leader of Science Olympiad
- * Sept. 2008 - Jun. 2009
- * Lead the 08-09 [CHCA][CHCA] Science Olympiad team to 8th place out of 22 teams.
+#### Founder at OLPCinci XO Repair Center <time> Summer 2008 - Mar. 2011 </time>
 
-* Student at Cincinnati Hills Christian Academy
- * Sept. 2006 - Jun. 2009
- * Graduated from [CHCA][CHCA], took classes including AP Latin, AP Chem, AP Physics, AP Calc, AP English.
+* Designed and implemented a stop-gap supply chain for repairs in the US and created a model implemented in four other locations. Personally have handled over 300 repair requests.
 
-* Team Leader at InterAlliance
- * Aug. 2007
- * IT summer camp / technical design competition. Led INTERalliance team to second-place position.
- * Was given "Mr. InterAlliance" award "For best typifying the values, goals, and mission of the INTERalliance of Greater Cincinnati at the 2007 IT Careers Camp" 
+#### Corporate Liaison with Olin IEEE <time> Oct. 2009 - May 2011 </time>
 
-* Attendee at IEEE NanoTech Conference
- * Jul. 2006
- * Youngest-ever attendee at the IEEE NanoTechnology Symposium
+* Responsible for fostering corporate relationships with companies in the electrical engineering sectors.
+
+#### "Support Gang" Member with One Laptop Per Child <time> Sept. 2007 - Jan. 2011 </time>
+
+* Provide customer support to owners of [XO Laptops.](http://one.laptop.org/about/hardware) Personally have assisted over 90 individuals in resolving technical/logistical difficulties.
+
+#### Team Leader of Science Olympiad <time> Sept. 2008 - Jun. 2009 </time>
+
+* Lead the 08-09 [CHCA][CHCA] Science Olympiad team to 8th place out of 22 teams.
+
+#### Student at Cincinnati Hills Christian Academy <time> Sept. 2006 - Jun. 2009 </time>
+
+* Graduated from [CHCA][CHCA], took classes including AP Latin, AP Chem, AP Physics, AP Calc, AP English.
+
+#### Team Leader at InterAlliance <time> Aug. 2007 </time>
+
+* IT summer camp / technical design competition. Led INTERalliance team to second-place position.
+* Was given "Mr. InterAlliance" award "For best typifying the values, goals, and mission of the INTERalliance of Greater Cincinnati at the 2007 IT Careers Camp" 
+
+#### Attendee at IEEE NanoTech Conference <time> Jul. 2006 </time>
+
+* Youngest-ever attendee at the IEEE NanoTechnology Symposium
 
 -----
 
-### Things I've Built
+## Things I've Built
 
-* The CEE by [Nonolith Labs][Nonolith]
- * Spring 2011 - Present
- * [The CEE][CEE] is a USB source-measure unit designed to be used as "cavalier instrumentation" - a general purpose tool for the curious to interact with the world around them.
- * V1.0 ships on Jan. 31
+#### The CEE by [Nonolith Labs][Nonolith] <time> Spring 2011 - Present </time>
 
-* [Protoflo, a Motion-Reactive Glow Toy](http://github.com/itdaniher/protoflo)
- * Fall 2011
- * Redesigned "Synesthesia" to be more generally applicable and more hackable. Added USB interface supporting override of default behavior.
+* [The CEE][CEE] is a USB source-measure unit designed to be used as "cavalier instrumentation" - a general purpose tool for the curious to interact with the world around them.
+* V1.0 ships on Jan. 31
 
-* [Thermowut, a USB Temperature Monitor](http://github.com/itdaniher/thermowut)
- * Fall 2011
- * Designed and built a general purpose temperature monitor/controller.
+#### [Protoflo, a Motion-Reactive Glow Toy](http://github.com/itdaniher/protoflo) <time> Fall 2011 </time>
 
-* [Open-Source Driver for Lab Hardware](http://github.com/itdaniher/Olin-SMUs)
- * Spring 2011
- * Wrote a Python driver for the homebrew source-measure unit used by Olin College in its introductory electrical engineering classes.
+* Redesigned "Synesthesia" to be more generally applicable and more hackable. Added USB interface supporting override of default behavior.
 
-* [Open-Source LEGO WeDo Driver](http://github.com/itdaniher/WeDoMore)
- * Spring 2011
- * Built a open-source driver for the Lego WeDo educational platform, provided a patch for use with TurtleArt, the graphical LOGO clone shipped by the One Laptop Per Child project.
+#### [Thermowut, a USB Temperature Monitor](http://github.com/itdaniher/thermowut) <time> Fall 2011 </time>
 
-* Pneumatic Gripper
- * Winter 2011
- * Inspired by an [iRobot/Cornell research project](http://www.pnas.org/content/107/44/18809.short), I constructed a pneumatic "jamming" robotic manipulator.
+* Designed and built a general purpose temperature monitor/controller.
 
-* Synesthesia, a Motion-Reactive Glow Poi
- * Summer 2010
- * As a part of a summer experiment in hardware design, I co-founded a small business and successfully produced a prototype of a novel motion-reactive glow poi for use in performance arts.
+#### [Open-Source Driver for Lab Hardware](http://github.com/itdaniher/Olin-SMUs) <time> Spring 2011 </time>
 
-* [Computer Based Pinewood Derby Timer](http://github.com/itdaniher/parallelPortTrackTimer)
- * Spring 2010, Spring 2011
- * Built a parallel-port based pinewood derby timer in Python. Used for Spring 2010/2011 races.
+* Wrote a Python driver for the homebrew source-measure unit used by Olin College in its introductory electrical engineering classes.
 
-* [Web-Controlled Pelletgun Turret](http://github.com/itdaniher/turret)
- * Winter 2010
- * Built a small pan/tilt airsoft turret complete with web/iPad control scheme.
+#### [Open-Source LEGO WeDo Driver](http://github.com/itdaniher/WeDoMore) <time>  Spring 2011 </time>
 
-* Electromechanical Project for Professional Magician
- * Winter 2007
- * Contracted to build a small microcontroller based system for an electromechanical magic trick. 
+* Built a open-source driver for the Lego WeDo educational platform, provided a patch for use with TurtleArt, the graphical LOGO clone shipped by the One Laptop Per Child project.
+
+#### Pneumatic Gripper <time> Winter 2011 </time>
+
+* Inspired by an [iRobot/Cornell research project](http://www.pnas.org/content/107/44/18809.short), I constructed a pneumatic "jamming" robotic manipulator.
+
+#### Synesthesia, a Motion-Reactive Glow Poi <time> Summer 2010 </time>
+
+* As a part of a summer experiment in hardware design, I co-founded a small business and successfully produced a prototype of a novel motion-reactive glow poi for use in performance arts.
+
+#### [Computer Based Pinewood Derby Timer](http://github.com/itdaniher/parallelPortTrackTimer) <time> Spring 2010, Spring 2011 </time>
+
+* Built a parallel-port based pinewood derby timer in Python. Used for Spring 2010/2011 races.
+
+#### [Web-Controlled Pelletgun Turret](http://github.com/itdaniher/turret) <time> Winter 2010 </time>
+
+* Built a small pan/tilt airsoft turret complete with web/iPad control scheme.
+
+#### Electromechanical Project for Professional Magician <time>  Winter 2007 </time>
+
+* Contracted to build a small microcontroller based system for an electromechanical magic trick. 
 
 [Nonolith]: http://nonolithlabs.com/  "Nonolith Labs"
 [CHCA]: http://www.chca-oh.org/ "Cincinnati Hills Christian Academy"
