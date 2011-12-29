@@ -14,6 +14,10 @@
 * Raised over 20k via presales of our [flagship product][CEE] through [Kickstarter](http://kickstarter.com).
 * As of Dec. 28, we have over two hundred people on our waiting list and parts purchased for a 500u production run.
 
+#### Organizer of [SCinciHacks](http://cincinnati.sciencehackday.com/) <time> Aug. 2011 - Oct. 22-23 2011 </time>
+
+* Organized a weekend long hackathon out of [Hive13](http://www.hive13.org/), attended by a dozen individuals ranging in age from 12 to 50.
+
 #### Intern at iRobot Corporation <time> Jun. 2011 - Sept. 2011 </time>
 
 * Working as an intern in iRobot's gov't/industrial research division building firmware for a novel compliant robotic hand.
