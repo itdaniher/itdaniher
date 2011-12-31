@@ -8,6 +8,11 @@
 
 ## Experiences <a id="Experiences"/>
 
+#### Organizer of [NonNeumann](nonneumann.tumblr.com) Discussion Group <time> Dec. 2011 - Present </time>
+
+* Organizer of an informal discussion group consisting of a half dozen individuals interested in an evolution in computer science. 
+* Activity mostly consists of sharing of journal articles relevant to asynchronous / massively parallel computing.
+
 #### CoFounder at [Nonolith Labs, LLC][Nonolith] <time> Jan. 2011 - Present </time>
 
 * Co-founded a company building tools enabling  makers and students to better explore the world around them. 
@@ -83,6 +88,11 @@
 #### Synesthesia, a Motion-Reactive Glow Poi <time> Summer 2010 </time>
 
 * As a part of a summer experiment in hardware design, I co-founded a small business and successfully produced a prototype of a novel motion-reactive glow poi for use in performance arts.
+
+#### Ferrofluid <time> Spring 2010 </time>
+
+* Synthesized several hundred milliliters of iron nanoparticles suspended in a kerosene solution.
+* Also synthesized a hundred millileters of iron nanoparticles suspended in a water solution, a portion of which is represented [here](http://itdnhr.imgur.com/ferrofluid).
 
 #### [Computer Based Pinewood Derby Timer](http://github.com/itdaniher/parallelPortTrackTimer) <time> Spring 2010, Spring 2011 </time>
 
