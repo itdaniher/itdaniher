@@ -6,6 +6,54 @@
 [@itdaniher](http://twitter.com/itdaniher) | explodingmind@gmail.com | 513-327-8483
 <br>
 
+## Things I've Built <a id="Projects"/>
+
+#### The CEE by [Nonolith Labs][Nonolith] <time> Spring 2011 - Present </time>
+
+* [The CEE][CEE] is a USB source-measure unit designed to be used as "cavalier instrumentation" - a general purpose tool for the curious to interact with the world around them.
+* ~150 CEEs shipped the first week of February to fulfill outstanding Kickstarter obligations.
+
+#### [Protoflo, a Motion-Reactive Glow Toy](http://github.com/itdaniher/protoflo) <time> Fall 2011 </time>
+
+* Redesigned "Synesthesia" to be more generally applicable and more hackable. Added USB interface supporting override of default behavior.
+
+#### [Thermowut, a USB Temperature Monitor](http://github.com/nonolith/thermowut) <time> Fall 2011 </time>
+
+* Designed and built a general purpose temperature monitor/controller.
+
+#### [Open-Source Driver for Lab Hardware](http://github.com/itdaniher/Olin-SMUs) <time> Spring 2011 </time>
+
+* Wrote a Python driver for the homebrew source-measure unit used by Olin College in its introductory electrical engineering classes.
+
+#### [Open-Source LEGO WeDo Driver](http://github.com/itdaniher/WeDoMore) <time>  Spring 2011 </time>
+
+* Built a open-source driver for the Lego WeDo educational platform, provided a patch for use with TurtleArt, the graphical LOGO clone shipped by the One Laptop Per Child project.
+
+#### Pneumatic Gripper <time> Winter 2011 </time>
+
+* Inspired by an [iRobot/Cornell research project](http://www.pnas.org/content/107/44/18809.short), I constructed a pneumatic "jamming" robotic manipulator.
+
+#### Synesthesia, a Motion-Reactive Glow Poi <time> Summer 2010 </time>
+
+* As a part of a summer experiment in hardware design, I co-founded a small business and successfully produced a prototype of a novel motion-reactive glow poi for use in performance arts.
+
+#### Ferrofluid <time> Spring 2010 </time>
+
+* Synthesized several hundred milliliters of iron nanoparticles suspended in a kerosene solution.
+* Also synthesized a hundred millileters of iron nanoparticles suspended in a water solution, a portion of which is represented [here](http://itdnhr.imgur.com/ferrofluid).
+
+#### [Computer Based Pinewood Derby Timer](http://github.com/itdaniher/parallelPortTrackTimer) <time> Spring 2010, Spring 2011 </time>
+
+* Built a parallel-port based pinewood derby timer in Python. Used for Spring 2010/2011 races.
+
+#### [Web-Controlled Pelletgun Turret](http://github.com/itdaniher/turret) <time> Winter 2010 </time>
+
+* Built a small pan/tilt airsoft turret complete with web/iPad control scheme.
+
+#### Electromechanical Project for Professional Magician <time>  Winter 2007 </time>
+
+* Contracted to build a small microcontroller based system for an electromechanical magic trick. 
+
 ## Experiences <a id="Experiences"/>
 
 #### Organizer of [NonNeumann](nonneumann.tumblr.com) Discussion Group <time> Dec. 2011 - Present </time>
@@ -57,55 +105,8 @@
 
 * Youngest-ever attendee at the IEEE NanoTechnology Symposium
 
-<br>
-## Things I've Built <a id="Projects"/>
-
-#### The CEE by [Nonolith Labs][Nonolith] <time> Spring 2011 - Present </time>
-
-* [The CEE][CEE] is a USB source-measure unit designed to be used as "cavalier instrumentation" - a general purpose tool for the curious to interact with the world around them.
-* V1.0 ships on Jan. 31
-
-#### [Protoflo, a Motion-Reactive Glow Toy](http://github.com/itdaniher/protoflo) <time> Fall 2011 </time>
-
-* Redesigned "Synesthesia" to be more generally applicable and more hackable. Added USB interface supporting override of default behavior.
-
-#### [Thermowut, a USB Temperature Monitor](http://github.com/nonolith/thermowut) <time> Fall 2011 </time>
-
-* Designed and built a general purpose temperature monitor/controller.
-
-#### [Open-Source Driver for Lab Hardware](http://github.com/itdaniher/Olin-SMUs) <time> Spring 2011 </time>
-
-* Wrote a Python driver for the homebrew source-measure unit used by Olin College in its introductory electrical engineering classes.
-
-#### [Open-Source LEGO WeDo Driver](http://github.com/itdaniher/WeDoMore) <time>  Spring 2011 </time>
-
-* Built a open-source driver for the Lego WeDo educational platform, provided a patch for use with TurtleArt, the graphical LOGO clone shipped by the One Laptop Per Child project.
-
-#### Pneumatic Gripper <time> Winter 2011 </time>
-
-* Inspired by an [iRobot/Cornell research project](http://www.pnas.org/content/107/44/18809.short), I constructed a pneumatic "jamming" robotic manipulator.
-
-#### Synesthesia, a Motion-Reactive Glow Poi <time> Summer 2010 </time>
-
-* As a part of a summer experiment in hardware design, I co-founded a small business and successfully produced a prototype of a novel motion-reactive glow poi for use in performance arts.
-
-#### Ferrofluid <time> Spring 2010 </time>
-
-* Synthesized several hundred milliliters of iron nanoparticles suspended in a kerosene solution.
-* Also synthesized a hundred millileters of iron nanoparticles suspended in a water solution, a portion of which is represented [here](http://itdnhr.imgur.com/ferrofluid).
-
-#### [Computer Based Pinewood Derby Timer](http://github.com/itdaniher/parallelPortTrackTimer) <time> Spring 2010, Spring 2011 </time>
-
-* Built a parallel-port based pinewood derby timer in Python. Used for Spring 2010/2011 races.
-
-#### [Web-Controlled Pelletgun Turret](http://github.com/itdaniher/turret) <time> Winter 2010 </time>
-
-* Built a small pan/tilt airsoft turret complete with web/iPad control scheme.
-
-#### Electromechanical Project for Professional Magician <time>  Winter 2007 </time>
-
-* Contracted to build a small microcontroller based system for an electromechanical magic trick. 
-
 [Nonolith]: http://nonolithlabs.com/  "Nonolith Labs"
 [CHCA]: http://www.chca-oh.org/ "Cincinnati Hills Christian Academy"
 [CEE]: http://nonolithlabs.com/cee "The CEE"
+<br>
+
