@@ -48,6 +48,11 @@
 
 * Inspired by an [iRobot/Cornell research project](http://www.pnas.org/content/107/44/18809.short), I constructed a pneumatic "jamming" robotic manipulator.
 
+#### Wiimote Headtracking System <time> Fall 2010 </time>
+
+* Build a proof of concept for a novel laparoscopic surgery control system. Pan/tilt gimbal constructed from hobby servos and angle aluminum.
+* Headtracking algorithm implemented in Python, communicated with wiimote over bluetooth. 
+
 #### Synesthesia, a Motion-Reactive Glow Poi <time> Summer 2010 </time>
 
 * As a part of a summer experiment in hardware design, I co-founded a small business and successfully produced a prototype of a novel motion-reactive glow poi for use in performance arts.
