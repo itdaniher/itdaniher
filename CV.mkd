@@ -25,11 +25,10 @@
 
 * Designed and built a general purpose temperature monitor/controller.
 
-#### Firmware and Visualizer Robotic Hand Tactile Sensors <time> Summer 2011 </time>
+#### Firmware and DataViz for Robotic Hand Tactile Sensors <time> Summer 2011 </time>
 
 * Worked with a team of engineers to produce a working demo for iRobot's HANDLE project, their entry for DARPA's ARM-H project. 
 * Personally designed and implemented homogenous firmware for several Atmel XMEGA chips operating on a shared RS-485 bus.
-* Engaged in extensive debugging of the analog frontend for the data acquisition system.
 
 #### [Open-Source Driver for Lab Hardware](http://github.com/itdaniher/Olin-SMUs) <time> Spring 2011 </time>
 
@@ -87,6 +86,12 @@
 #### Intern at iRobot Corporation <time> Jun. 2011 - Sept. 2011 </time>
 
 * Working as an intern in iRobot's gov't/industrial research division building firmware for a novel compliant robotic hand.
+
+#### Stockroom manager at Olin College <time> Fall 2010 - Spring 2011 </time>
+
+* Coordinated weekly part purchases from Mouser, DigiKey, and Newark.
+* Was the de-facto advisor/support tech for student projects.
+* Was responsible for organizing, cleaning, and maintaining a glorified broom closet stuffed to the gills with awesome.
 
 #### Student at Olin College <time> Aug. 2009 - May 2011 </time>
 
