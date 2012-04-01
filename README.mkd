@@ -1,1 +1,1 @@
-This is repo exists to [de]centralize bug tracking and documentation efforts for Ian T. Daniher.
+This is repo exists to [de]centralize bug tracking and documentation efforts of Ian T. Daniher.
