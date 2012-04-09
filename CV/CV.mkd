@@ -72,6 +72,10 @@
 
 ## Experiences <a id="Experiences"/>
 
+#### Speaker at [POSSCON](http://www.posscon.org/) <time> Mar. 29 2012 </time>
+
+* Gave a talk on my work with [Nonolith Labs][Nonolith] to ~40 people at a large open source conference in Charlotte, SC.
+
 #### CoFounder at [Nonolith Labs, LLC][Nonolith] <time> Jan. 2011 - Present </time>
 
 * Co-founded a company building tools enabling  makers and students to better explore the world around them. 
