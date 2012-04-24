@@ -1,0 +1,18 @@
+### projects
+
+* reconfigurable hardware
+ * tools for interfacing with the real world, limiting your ability to achieve predominantly by your ability to express your ideas
+ * [The CEE](nonolithlabs.com/cee)
+ * [RALA](rala.cba.mit.edu)
+
+* variable abstraction development environments
+ * toolpath aware parameteric CAD tools to logicwhacker-style programming environments
+ * [PySCAD](https://github.com/kevinmehall/pyscad)
+ * [worrydream's Ladder of Abstraction](http://worrydream.com/#!/LadderOfAbstraction)
+
+### people
+
+* Buckminster Fuller
+* Herman Hesse
+* Steve Jobs
+* Paul Graham
