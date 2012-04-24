@@ -1,18 +1,43 @@
 ### projects
 
 * reconfigurable hardware
- * tools for interfacing with the real world, limiting your ability to achieve predominantly by your ability to express your ideas
- * [The CEE](nonolithlabs.com/cee)
- * [RALA](rala.cba.mit.edu)
+ * devices whose functionality is limited by your ability to express ideas 
+  * XMOS
+  * the cee
+  * logicwhacker
+  * RALA / rala.cba.mit.edu
 
-* variable abstraction development environments
- * toolpath aware parameteric CAD tools to logicwhacker-style programming environments
- * [PySCAD](https://github.com/kevinmehall/pyscad)
- * [worrydream's Ladder of Abstraction](http://worrydream.com/#!/LadderOfAbstraction)
+* variable abstraction environments
+ * tools enabling the curious and ambitious to learn and build new things by facilitating the manipulation of information at various levels on the [ladder of abstraction](worrydream.com/#!/LadderOfAbstraction) such as...
+  * logicwhacker
+  * toolpath-aware parameteric CAD software
+  * abstore
+
+* bit/atom bridges
+ * the missing links, turning digital devices into powerful tools for controlling, exploring, and experimenting in the "real" world
+  * the cee
+  * logicwhacker
+  * MEMS sensors
+  * microfluidics
+  * most everything coming out of cba.mit.edu
+  * additive manufacturing techniques
+  * synthetic biology
+
+
+* computational architectures, especially novel / non-neumann
+ * tools for operating on information
+  * GreenArrays
+  * OpenRISC
+  * AMD's Fusion / Heterogeneous System Architecture
+
 
 ### people
 
 * Buckminster Fuller
+ * working on reading "Ideas and Integrities"
 * Herman Hesse
+ * consumed "Siddhartha"
 * Steve Jobs
+ * his work, especially as it pertains to mass-marketing platforms for ephemeralization
 * Paul Graham
+ * most everything at http://paulgraham.com/articles.html, especially [Tablets](http://www.paulgraham.com/tablets.html) and [Todo](http://www.paulgraham.com/todo.html)
