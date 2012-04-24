@@ -4,6 +4,7 @@
  * devices whose functionality is limited by your ability to express ideas 
   * XMOS
   * the cee
+  * programmable logic / FPGAs
   * logicwhacker
   * RALA / rala.cba.mit.edu
 
@@ -12,6 +13,7 @@
   * logicwhacker
   * toolpath-aware parameteric CAD software
   * abstore
+  * zoomable user interfaces for content exploration - annotated shakespeare, noteslate
 
 * bit/atom bridges
  * the missing links, turning digital devices into powerful tools for controlling, exploring, and experimenting in the "real" world
@@ -24,7 +26,7 @@
   * synthetic biology
 
 
-* computational architectures, especially novel / non-neumann
+* computational architectures, especially novel / [non-neumann](nonneumann.tumblr.com)
  * tools for operating on information
   * GreenArrays
   * OpenRISC
