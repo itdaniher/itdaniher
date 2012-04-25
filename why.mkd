@@ -1,3 +1,0 @@
-This project is inspired in part by R. Buckminster Fuller's Dymaxion Chronofile, a slightly ridiculous scrapbook in which he documented over sixty years of his life in fifteen minute increments.
-
-Between Twitter and Gmail, I'm storing similar quantities of content, but with considerably higher overhead. I'm endeavoring to turn github.com/itdaniher/itdaniher into a set of metadata and musings, a curated set of information complete with a mechanism for future annotation and third party commentary.
