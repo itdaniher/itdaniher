@@ -4,30 +4,16 @@ First and formost, this is a list of concepts about which I am curious. This imp
 
 * reconfigurable hardware
  * function determined predominantly by expressed ideas
-  * XMOS
-  * the cee
-  * programmable logic / FPGAs
-  * logicwhacker
-  * RALA / rala.cba.mit.edu
+ * interesting possibilities exist... in XMOS, cee, logicwhacker, FPGAs
 
 * variable abstraction environments
- * enables the curious and ambitious to learn and build new things by facilitating the manipulation of information at various levels on the [ladder of abstraction](worrydream.com/#!/LadderOfAbstraction) such as...
-  * logicwhacker
-  * toolpath-aware parameteric CAD software
-  * abstore
-  * zoomable user interfaces for content exploration - annotated shakespeare, noteslate
+ * facilitates the manipulation of information at varying levels of abstraction
+ * possible avenues include... worrydream's kill math / [ladder of abstraction](worrydream.com/#!/LadderOfAbstraction) project, logicwhacker, toolpath-aware parameteric CAD software, abstore, zoomable user interfaces for content exploration
 
 * bit/atom bridges
- * enabling the interplay of digital logic / computational systems and physical materials 
-  * the cee
-  * MEMS sensors
-  * microfluidics
-  * most everything coming out of cba.mit.edu
-  * additive manufacturing techniques
-  * synthetic biology
+ * enables the interplay of digital logic / computational systems and physical materials 
+ * interesting implementations can be found in.... [cee], MEMS sensors, EWD microfluidics, repraps, syntheteic biology
 
 
-* computational architectures, especially novel / [non-neumann](nonneumann.tumblr.com)
- * GreenArrays
- * OpenRISC
- * AMD's Fusion / Heterogeneous System Architecture
+* compututer architectures, especially novel / [non-neumann](nonneumann.tumblr.com)
+ * interesting implementations can be found in...  GreenArrays, OpenRISC, AMD's Fusion / Heterogeneous System Architecture
