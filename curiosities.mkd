@@ -3,7 +3,7 @@ This list is intended to facilitate focus, share sentiments, and explore ideas.
 First and formost, this is a list of concepts about which I am curious. This implies a certain amount of rollover. That said, the list of concepts and projects below have been the center of my attention for a nontrivial period of time and I intend to continue working on aspects of the below.
 
 * reconfigurable hardware
- * devices whose functionality is predominantly limited by your ability to express ideas
+ * function determined predominantly by expressed ideas
   * XMOS
   * the cee
   * programmable logic / FPGAs
@@ -11,16 +11,15 @@ First and formost, this is a list of concepts about which I am curious. This imp
   * RALA / rala.cba.mit.edu
 
 * variable abstraction environments
- * tools enabling the curious and ambitious to learn and build new things by facilitating the manipulation of information at various levels on the [ladder of abstraction](worrydream.com/#!/LadderOfAbstraction) such as...
+ * enables the curious and ambitious to learn and build new things by facilitating the manipulation of information at various levels on the [ladder of abstraction](worrydream.com/#!/LadderOfAbstraction) such as...
   * logicwhacker
   * toolpath-aware parameteric CAD software
   * abstore
   * zoomable user interfaces for content exploration - annotated shakespeare, noteslate
 
 * bit/atom bridges
- * the missing links, turning digital devices into powerful tools for controlling, exploring, and experimenting in the "real" world
+ * enabling the interplay of digital logic / computational systems and physical materials 
   * the cee
-  * logicwhacker
   * MEMS sensors
   * microfluidics
   * most everything coming out of cba.mit.edu
