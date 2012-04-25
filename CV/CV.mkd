@@ -8,10 +8,6 @@
 
 ## Things I've Made <a id="Projects"/>
 
-#### Copper Nitrate <time> Spring 2012 </time>
-
-* Using the CEE as a constant current power supply, electrochemically produced and recrystalized ~20g of copper nitrate.
-
 #### The CEE by [Nonolith Labs][Nonolith] <time> Spring 2011 - Present </time>
 
 * [The CEE][CEE] is a USB source-measure unit designed to be used as "cavalier instrumentation" - a general purpose tool for the curious to interact with the world around them.
