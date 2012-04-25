@@ -1,7 +1,9 @@
-### projects
+This list is intended to facilitate focus, share sentiments, and explore ideas.
+
+First and formost, this is a list of concepts about which I am curious. This implies a certain amount of rollover. That said, the list of concepts and projects below have been the center of my attention for a nontrivial period of time and I intend to continue working on aspects of the below.
 
 * reconfigurable hardware
- * devices whose functionality is limited by your ability to express ideas 
+ * devices whose functionality is predominantly limited by your ability to express ideas
   * XMOS
   * the cee
   * programmable logic / FPGAs
@@ -27,19 +29,6 @@
 
 
 * computational architectures, especially novel / [non-neumann](nonneumann.tumblr.com)
- * tools for operating on information
-  * GreenArrays
-  * OpenRISC
-  * AMD's Fusion / Heterogeneous System Architecture
-
-
-### people
-
-* Buckminster Fuller
- * working on reading "Ideas and Integrities"
-* Herman Hesse
- * consumed "Siddhartha"
-* Steve Jobs
- * his work, especially as it pertains to mass-marketing platforms for ephemeralization
-* Paul Graham
- * most everything at http://paulgraham.com/articles.html, especially [Tablets](http://www.paulgraham.com/tablets.html) and [Todo](http://www.paulgraham.com/todo.html)
+ * GreenArrays
+ * OpenRISC
+ * AMD's Fusion / Heterogeneous System Architecture
