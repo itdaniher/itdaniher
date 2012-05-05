@@ -1,0 +1,65 @@
+﻿“standard” solution, implemented by makerbot and RAMPS derived hardware systems
+hardware
+1. FT232
+2. ATmega2560 or compatible
+3. A4988 stepper drivers
+software
+1. CAD
+2. STL
+3. GCode
+4. <magic>
+5. stepper driver step/dir
+Where <magic> is either....
+1. makerbot compatible
+1. ProtocolDocumentation.hh
+2. Commands.hh
+3. Packet.cc
+1. reprap compatible
+1. Sprinter.pde
+1. similar to grbl - streamed ASCII processed by a switch/case
+host software
+1. Replicator G ships with “reprap.xml” which allows use of streamed-ascii hardware
+2. Printrun - pure Python CLI for streamed-GCode hardware
+
+
+note on speed: 5000 mm/min, ~47 steps per mm -> frequency of ‘step’ pin ~= 4KHz
+-----
+1. each line of g-code contains an atomic motion command and thus can be processed independently
+2. perfectly functional for recorded motions, but not for manual control
+1. each section of time would need to be converted to a gcode command (relative movement) and sent down the pipe, causing significant latency from all steps
+2. rounding errors will accumulate
+1. why’s streamed ascii so popular?
+1. impractical to stream step/dir commands
+1. printing a large circle would require hundreds of bytes of information - small pipe would mean each operation would take dozens of ms to transfer and it’s not easy to buffer that much data in memory-limited systems
+1. stays human readable
+
+
+How could we make existing solutions work?
+1. Printrun is a solid abstraction layer that we could possibly adapt to be a general purpose userspace motion control platform, but aforementioned gcode synthesis problems would still have to be resolved
+2. firmware-level hacks replacing CDC/ACM serial port with control / bulk requests on teensylu-style system
+
+
+What might something different look like?
+1. programmable logic paired with a small ARM/Linux computer such as the r’pi or beaglebone
+
+
+why?
+1. centralize all processing, from CAD to step/direction, in a userspace script
+1. this would allow intimate control of exact real-world behavior, facilitate interesting modeling exercises, and allow for rapid prototyping of novel control schemes (multi-bezier?)
+1. allow userspace applications soft-realtime motion control, facilitating humantime interaction with multiaxis robotics with lower latency than a gcode synthesis approach might allow
+2. reduce the amount of compiled code and hard logic between computer and motors
+3. facilitate “applianceization” of 3d printer technology
+4. because most other solutions suck and this would be awesome.
+
+
+how?
+1. tether a CPLD to an ARM processor over a simple high-speed serial (or parallel) bus
+2. provide CPLD with sufficient memory to buffer a large number of operations, allowing for deterministic, low-latency execution of a series of planned moves
+3. consider implementing stepper control routines in verilog, and pairing CPLD with a quad-half-H as a costsaving mechanism - see Xilinx app note 940 for an implementation of this concept
+1. microstepping would be nontrivial to implement sans lookup table or easy way to build a sine wave
+2. microstepping might not be needed for PnP work, given the large gear ratio granted by the belt
+3. 
+
+XC2C64A provides 64MCells and 33IO. runs off 1.8v, takes 3.3V for IO
+A4988 provides dual h-bridge, microstepping logic, and current control chopper
+TB6612 provides dual h-bridge with PWM for each
