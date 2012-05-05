@@ -1,0 +1,18 @@
+﻿## a non-contact valve and control algorithm for metered liquid dispensing
+
+This document presents an actuated valve providing real-time information on fluid levels in a burette or tank, allowing for the computer-controlled dispensing of precise amounts of liquid. A simple mechanical and electrical assembly is augmented through the use of current-mass lookup tables, providing a cost-effective replacement for complex systems using specialized hardware.
+
+### potential claims
+
+* gravity-based solenoid ball valve
+* ballvalve featuring a freefloating/unattached partially ferromagnetic ball
+* application of patents 7,511,478 and 5,942,892 to solenoid ball valves
+* relation of energy required for solenoid actuation to liquid levels in a valve
+* non-contact valve providing feedback information concerning liquid level
+* use of a lookup table to correlate current draw of a solenoid to fluid mass
+* control-loop modifications providing sensor and sensorless 
+* use of a position control loop to monitor liquid levels wherein the control loop is derived through sensorless (as per USPAT 7511478/5942892), optical, or magnetic sensors, and changes in current draw or voltage are utilized to determine the amount of fluid in a system
+* implementation of this technology via a USB source measure unit
+* implementation of this technology for liquid dispensing
+* implementation of this technology for fluid titration, used in conjunction with an electrical or chemical sensor
+* implementation of this technology as a nested absolute volume-dispensed control loop
