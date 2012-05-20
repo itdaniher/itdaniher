@@ -1,0 +1,11 @@
+Manipulating small amounts of liquid in a massively parallel manner is usually relegated to the domain of multi-million-dollar robotic installations or teams of underpaid, malnourished undergraduate students. Neither of these approaches is particularly well suited towards benchtop scale research and production. In this document, I purpose , a possible solution implementing Electrowetting-on-Dielectric technology using COTS technology and manufacturing techniques. 
+
+Electrowetting-on-dielectric, or EWD for short, is a novel branch of microfludics that, due to the discrete nature of the droplets in manipulation, lends itself readily towards integration with digital electronics and control mechanisms. By utilizing varying electrical voltages to modify the surface-fluid interactions in a fluid matrix, nano-to-microliter scale polar liquids can be moved around a two dimensional substrate. Typical implementations of EWD technology make use of amorphous fluoropolymers vapor-deposited on etched metal substrates. 
+
+[affordable ITO cover](http://www.ebay.com/itm/ITO-Indium-Tin-Oxide-Conductive-Glass-Substrate-10-ohm-m2-/150799371924)
+
+["Electrowetting on Dielectrics (EWOD): Reducing Voltage Requirements for Microfluidics"](http://www.ag.arizona.edu/research/biosensors/acs01b.pdf)
+
+["Chemical and Biological Applications of DigitalMicrofluidic Devices"](http://microfluidics.ee.duke.edu/documents/ieee07.pdf)
+
+["Parylene Conformal Coating Specifications & Properties"](http://www.nbtc.cornell.edu/facilities/downloads/Parylene%20Information%20Sheets.pdf)
