@@ -1,6 +1,8 @@
 ﻿### Coke Freestyle
 
-The most recent innovation in the world of sugar water is the Coke Freestyle machine. It's a glorified bunch of printer cartridges and a CO2 tank. Designed in part by Dean Kamen, the segway inventor, it borrows microdosing technology from cutting edge medical devices and makes use of continuous microfluidics and high tech pumps and valves. Check out a [picture](http://farm6.staticflickr.com/5172/5495563122_b904279a9a_b.jpg).
+The most recent innovation in the world of sugar water is the Coke Freestyle machine. 
+It's a glorified bunch of printer cartridges and a CO2 tank. Designed in part by Dean Kamen, the segway inventor, it borrows microdosing technology from cutting edge medical devices and makes use of continuous microfluidics and high tech pumps and valves. 
+Check out a [picture](http://farm6.staticflickr.com/5172/5495563122_b904279a9a_b.jpg).
 
 The system contains a large number of proprietary base syrups - coke base, sprite base, etc - and proprietary flavoring mixes - cherry, lime, lemon, etc.
 
@@ -8,11 +10,18 @@ It's worth noting that the diet syrups - diet coke - are all small. The artifici
 
 ### It's all Chemicals
 
-How much of an overlap is there between Dr. Pepper's 23 flavors and 7Up's 7 flavors? We'll never know, as the details of the compounds used are trade secret.
+How much of an overlap is there between Dr. Pepper's 23 flavors and 7Up's 7 flavors? 
+We'll never know, as the details of the compounds used are trade secret.
 
-How many different types of sodas do you think you could make out of Dr. Pepper's 23 flavors? Probably quite a few.
+How many different types of sodas do you think you could make out of Dr. Pepper's 23 flavors? 
+Probably quite a few.
 
-Instead of having macroscale cartridges for each brand, break everything down into component flavoring compounds. Leverage the discrete fluid handling technology developed for [ChemWhacker] to facilitate the rapid mixing of different flavoring compounds and colors. Provide a variety of possible sodas from the same base chemicals. The potential for disruption is tremendous - the sugarwater business is dominated by 600lb gorillas. It's a lucrative market. There's potential here...
+Instead of having macroscale cartridges for each brand, break everything down into component flavoring compounds. 
+Leverage the discrete fluid handling technology developed for [ChemWhacker] to facilitate the rapid mixing of different flavoring compounds and colors. 
+Provide a variety of possible sodas from the same base chemicals. 
+The sugarwater business is dominated by 600lb gorillas. 
+It's a lucrative market. 
+There's potential here...
 
 #### Don't [not?] be Evil
 

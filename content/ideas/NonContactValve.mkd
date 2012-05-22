@@ -1,6 +1,7 @@
 ﻿## a non-contact valve and control algorithm for metered liquid dispensing
 
-This document presents an actuated valve providing real-time information on fluid levels in a burette or tank, allowing for the computer-controlled dispensing of precise amounts of liquid. A simple mechanical and electrical assembly is augmented through the use of current-mass lookup tables, providing a cost-effective replacement for complex systems using specialized hardware.
+This document presents an actuated valve providing real-time information on fluid levels in a burette or tank, allowing for the computer-controlled dispensing of precise amounts of liquid. 
+A simple mechanical and electrical assembly is augmented through the use of current-mass lookup tables, providing a cost-effective replacement for complex systems using specialized hardware.
 
 ### potential claims
 
