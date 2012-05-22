@@ -1,0 +1,16 @@
+Arduino made embedded accessible at the expense of features and efficiency, religating it to the world of classrooms, widgets, and one-offs.
+An insane labyrinth of header files hides hundreds, if not thousands, of overhead from the prying eyes of those best suited to fix it.
+A limited syntax and a bizzare mix of functional and object oriented programming and cryptic syntax restricted the Arduino's utility.
+The Arduino is a dead end, but we can learn from it. Modular hardware coupled with distributable software enabled millions of luddites to create something, and like makerfaire-going Igors, endow their creations with a brain. The ability to force-multiply one's time, intellect, and abilities by computing made relevant cannot be underestinmated.
+
+The issues discussed ccan be tracked to limited abstractions and underdesigned hardware. 
+There is no room to transition from a wiring program, to programming in embedded C, to (heaven help you) straight assembly. 
+Arduino is only useful to work at one level of computation, a syntatically awkward and sugar-coated level.
+Additionally, Arduino is a platform, not a tool. 
+The board itself is capable predominantly of blinking lights, changing pinstates to encode information in a wide range of digital communication protocols, offloading the application-specific functionality to third party chips on shields or breadboards.
+
+Projects like Minibloq and Modk.it are feverishly at work designing higher and higher levl abstractions to make the same basic technology more readily accessible.
+They're building a preschool on a landfill.
+Projects like ZPUduino and xmegaduino are working to solve the limitions present in the Arduino hardware, but with only limited cognisence of any aspect of the software above memory mapped peripherals and CPU instructions. 
+
+What might something different look like?
