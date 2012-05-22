@@ -1,14 +1,14 @@
-Arduino made embedded development accessible at the expense of features and efficiency, relegating it to the world of classrooms, widgets, and one-offs.
-An insane labyrinth of header files results in computational efficiency of one cycle in a hundred, and hides the overhead from the prying eyes of those best suited to fix it.
-The Arduino is a dead end, but we can learn from it. 
-Modular hardware coupled with distributable software enabled millions of luddites to create something, and like makerfaire-going Igors, endow their creations with a brain. 
-The ability to force-multiply one's time, intellect, and abilities by computing made relevant cannot be underestinmated.
+Arduino made embedded development accessible, giving the masses, perhaps for the first time, access to computation made relevant and tangible. 
+However, this accessibility came at the expense of features and efficiency, relegating it to the world of classrooms, widgets, and one-offs.
+An insane labyrinth of header files and syntactic sugar retards computational efficiency to maybe one cycle in a hundred, and hides the overhead from the prying eyes of those best suited to fix it.
+Modular hardware coupled with distributable software enabled millions of individuals to create something, and like makerfaire-going Igors, endow their creations with a brain. 
 
-The issues discussed ccan be tracked to limited abstractions and underdesigned hardware. 
-There is no room to transition from a wiring program, to programming in embedded C, to (heaven help you) straight assembly. 
-Arduino is only useful to work at one level of computation, a syntatically awkward and sugar-coated level.
+The issues discussed can be tracked to limited abstractions and underdesigned hardware. 
+There is no room to transition from a Wiring program, to programming in embedded C, to (heaven help you) straight assembly. 
+The Arduino platform is capable of working at one level of abstraction, the level where bitbanging happens through digitalWrite, the level where kilobytes of bytecode are required to do the simplest of operations and smoothed-over C++ is as good as it gets. 
+
 Additionally, Arduino is a platform, not a tool. 
-The board itself is capable predominantly of blinking lights, changing pinstates to encode information in a wide range of digital communication protocols, offloading the application-specific functionality to third party chips on shields or breadboards.
+The board itself is capable predominantly of blinking lights - changing pinstates to encode information in a wide range of digital communication protocols - offloading the application-specific functionality to third party chips on shields or breadboards.
 
 Projects like Minibloq and Modk.it are feverishly at work designing higher and higher levl abstractions to make the same basic technology more readily accessible.
 They're building a preschool on a landfill.
