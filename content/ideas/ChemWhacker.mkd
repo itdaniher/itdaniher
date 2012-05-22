@@ -1,11 +1,25 @@
-Manipulating small amounts of liquid in a massively parallel manner is usually relegated to the domain of multi-million-dollar robotic installations or teams of underpaid, malnourished undergraduate students. Neither of these approaches is particularly well suited towards benchtop scale research and production. In this document, I purpose , a possible solution implementing Electrowetting-on-Dielectric technology using COTS technology and manufacturing techniques. 
+Manipulating small amounts of liquid in a massively parallel manner is usually relegated to the domain of multi-million-dollar robotic installations or teams of underpaid, malnourished undergraduate students. Neither of these approaches is particularly well suited towards benchtop scale research and production. In this document, I purpose ChemWhacker, a possible solution implementing Electrowetting-on-Dielectric technology using COTS technology and manufacturing techniques. 
 
-Electrowetting-on-dielectric, or EWD for short, is a novel branch of microfludics that, due to the discrete nature of the droplets in manipulation, lends itself readily towards integration with digital electronics and control mechanisms. By utilizing varying electrical voltages to modify the surface-fluid interactions in a fluid matrix, nano-to-microliter scale polar liquids can be moved around a two dimensional substrate. Typical implementations of EWD technology make use of amorphous fluoropolymers vapor-deposited on etched metal substrates. 
+### How
 
-[affordable ITO cover](http://www.ebay.com/itm/ITO-Indium-Tin-Oxide-Conductive-Glass-Substrate-10-ohm-m2-/150799371924)
+Electrowetting-on-dielectric, or EWD for short, is a novel branch of microfludics that, due to the discrete nature of the droplets in manipulation, lends itself readily towards integration with digital electronics and control mechanisms. By utilizing varying electrical voltages to modify the surface-fluid interactions in a fluid matrix, nano-to-microliter scale polar liquids can be moved around a two dimensional substrate. Typical implementations of EWD technology make use of amorphous fluoropolymers vapor-deposited on etched metal substrates. The processes and products associated with printed circuit board (PCB) manufacturing lend themselves towards [mis]application in an EWD situation. PCBs offer an electrically conductive, chemically resistant, high-precision substrate for an EWD matrix. [Parylene](http://www.nbtc.cornell.edu/facilities/downloads/Parylene%20Information%20Sheets.pdf), a polymer commonly used for PCB conformal coatings, [has been proven](http://secs.ceas.uc.edu/devices/Downloads/Documents/Publications/Reliable%20and%20low-voltage%20electrowetting%20on%20thin%20Parylene%20films.pdf) an exceptional nonpolar dialectric for EWD grids.
+
+### "Turning Complete" 
+
+Industrial scale chemistry relies on an impossibly complex web of interdependent feedstocks and extreme processes. Lab chemistry relies on a well stocked supply cabinet with hundreds of nearly identical brown bottles and a handful of reactions operating at approximately standard temperature and pressure. The rationale for this is twofold. 
+
+* Many reactions have unintended side products and chiral isomers. Most of the time [citationNeeded] this is a nonissue, with a [few] [notable] [exceptions].
+
+* Time is money. Expecting a lab technician to produce the needed reagents on-site is like expecting a computer programmer to write their own IDE.
+
+The first problem is increasingly adressable [citationNeeded] through innovative catalysts, advances in physical chemistry, and even novel applications of synthetic biology. The second problem is the quintessential problem statement for computation and automation. 
+
+I purpose EWD as a mechanism for so-called "turning complete" mechanisms, a system provided with the basic feedstocks, reactors, and control systems to produce veritably any organic compound and a nontrivial array of common inorganics. The discrete aspect of EWD manipulation provides advantages over traditional continuous flow microfluidics with regards to cleanliness, volumetric control, and digital interface/manipulation. The addition of thermoelectric temperature control and microscale electrochemical oxidation and reduction reactors would provide a basic electrostatic fluid manipulation device with the ability to produce an incredible range of chemicals, one step at a time.  
+
+#### Warning - this analogy is leaky and probably horrible
+
+Extending the "turning complete" analogy, one could approach this style of sequential chemical reactions as a Lisp-style chained closure, where each level's object is the result of lower level function calls and the lines between object and function are blurred.
 
 ["Electrowetting on Dielectrics (EWOD): Reducing Voltage Requirements for Microfluidics"](http://www.ag.arizona.edu/research/biosensors/acs01b.pdf)
 
-["Chemical and Biological Applications of DigitalMicrofluidic Devices"](http://microfluidics.ee.duke.edu/documents/ieee07.pdf)
-
-["Parylene Conformal Coating Specifications & Properties"](http://www.nbtc.cornell.edu/facilities/downloads/Parylene%20Information%20Sheets.pdf)
+["Chemical and Biological Applications of Digital Microfluidic Devices"](http://microfluidics.ee.duke.edu/documents/ieee07.pdf)
