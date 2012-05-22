@@ -14,11 +14,7 @@ Industrial scale chemistry relies on an impossibly complex web of interdependent
 
 The first problem is increasingly adressable [citationNeeded] through innovative catalysts, advances in physical chemistry, and even novel applications of synthetic biology. The second problem is the quintessential problem statement for computation and automation. 
 
-I purpose EWD as a mechanism for so-called "turning complete" mechanisms, a system provided with the basic feedstocks, reactors, and control systems to produce veritably any organic compound and a nontrivial array of common inorganics. The discrete aspect of EWD manipulation provides advantages over traditional continuous flow microfluidics with regards to cleanliness, volumetric control, and digital interface/manipulation. The addition of thermoelectric temperature control and microscale electrochemical oxidation and reduction reactors would provide a basic electrostatic fluid manipulation device with the ability to produce an incredible range of chemicals, one step at a time.  
-
-#### Warning - this analogy is leaky and probably horrible
-
-Extending the "turning complete" analogy, one could approach this style of sequential chemical reactions as a Lisp-style chained closure, where each level's object is the result of lower level function calls and the lines between object and function are blurred.
+I purpose EWD as a mechanism for so-called "turning complete" mechanisms, a system capable of turning a handful of basic feedstocks into veritably any organic compound through the sequential application of a finite number of transformations. The discrete aspect of EWD manipulation provides advantages over traditional continuous flow microfluidics with regards to cleanliness, volumetric control, and digital interface/manipulation. The addition of thermoelectric temperature control and microscale electrochemical oxidation and reduction reactors would provide a basic electrostatic fluid manipulation device with the ability to produce an incredible range of chemicals, one step at a time.  
 
 ["Electrowetting on Dielectrics (EWOD): Reducing Voltage Requirements for Microfluidics"](http://www.ag.arizona.edu/research/biosensors/acs01b.pdf)
 
