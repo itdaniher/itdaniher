@@ -1,1 +1,4 @@
-I decided to move several of my idea "onePagers" from Google Documents, ideal for private sharing and review, to this git project. I hope that the additional metadata of revision history and this avenue of public presentation will result in higher throughput and a more compelling arguement for actualization.  
+I decided to move several of my idea "onePagers" from Google Documents, ideal for private sharing and review, to this git project. 
+I hope that the additional metadata of revision history and this avenue of public presentation will result in higher throughput and a more compelling argument for actualization.
+
+Feel free to make this stuff happen. It'd be awfully nice if you'd post any efforts in this direction on github under an open source license and keep me in the loop. 
