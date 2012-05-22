@@ -1,40 +1,25 @@
 ﻿### Coke Freestyle
 
-I got a chance to muck around with a Coke Freestyle machine in the past - as I mentioned, it's just a glorified bunch of printer cartridges and a CO2 tank. It was designed in part by Dean Kamen, the segway inventor.
+The most recent innovation in the world of sugar water is the Coke Freestyle machine. It's a glorified bunch of printer cartridges and a CO2 tank. Designed in part by Dean Kamen, the segway inventor, it borrows microdosing technology from cutting edge medical devices and makes use of continuous microfluidics and high tech pumps and valves. Check out a [picture](http://farm6.staticflickr.com/5172/5495563122_b904279a9a_b.jpg).
 
-Anyway, here's a [picture](http://farm6.staticflickr.com/5172/5495563122_b904279a9a_b.jpg).
+The system contains a large number of proprietary base syrups - coke base, sprite base, etc - and proprietary flavoring mixes - cherry, lime, lemon, etc.
 
-It's a bunch of proprietary base syrups - coke base, sprite base, etc - and proprietary flavoring mixes - cherry, lime, lemon, etc.
-
-It's worth noting that the diet syrups - diet coke - are all small as the artificial sweeteners are considerably more powerful than sugar. The flavorings are the same size as the diet sodas.
+It's worth noting that the diet syrups - diet coke - are all small. The artificial sweeteners are orders of magnitude more "sweet" than sugar. The flavorings are the same size as the diet sodas.
 
 ### It's all Chemicals
 
-Here's the direction I'd take this. It's all chemicals. How much of an overlap is there between Dr. Pepper's 23 flavors and 7Up's 7 flavors? We'll never know, as all that stuff is super-trade-secret. 
+How much of an overlap is there between Dr. Pepper's 23 flavors and 7Up's 7 flavors? We'll never know, as the details of the compounds used are trade secret.
 
 How many different types of sodas do you think you could make out of Dr. Pepper's 23 flavors? Probably quite a few.
 
-Instead of having macroscale cartridges for each brand, break everything down into component flavoring compounds. Use technology borrowed from insulin pumps or printer cartridges or microfluidics to facilitate precise microdosing of different flavoring compounds. Recombine colors and flavors, giving you a tremendous variety of possible sodas from the same handful of chemicals.
+Instead of having macroscale cartridges for each brand, break everything down into component flavoring compounds. Leverage the discrete fluid handling technology developed for [ChemWhacker] to facilitate the rapid mixing of different flavoring compounds and colors. Provide a variety of possible sodas from the same base chemicals. The potential for disruption is tremendous - the sugarwater business is dominated by 600lb gorillas. It's a lucrative market. There's potential here...
 
-### Don't [not?] be Evil
+#### Don't [not?] be Evil
 
 * go online and download a new soda
 * vote on your favorite variety of soda
 * "flavor of the month" club
 * printer cartridge pricing - give away the dispensers, charge $$ for the flavor cartridges
-* tweak the ratio of flavoring components of your favorite soda, personalizing it a'la the long tail - http://www.longtail.com/about.html
+* tweak the ratio of flavoring components of your favorite soda, personalizing it a'la [the long tail](http://www.longtail.com/about.html)
 * killer market access - run trials remotely, pay and/or get paid for people to participate in flavor research
 * build "an app store for sodas" 
-
-
-### Goals
-
-* "app store for sodas"
-* provide a tech backbone for longtail soda based on the premise "lots of people will pay extra for something customized to their tastes"
-
-### Resources
-
-* video showing the potential of microfluidics - http://microfluidics.ee.duke.edu/videos/mpegs/rotary_flow.mpg
-* images showing microfluidics for gradient creation - http://biopoets.berkeley.edu/davidb/projects/shrink.php
-* my computer background - http://www.meh.ro/original/2010_02/meh.ro2338.jpg
-* overly complicated microfluidics articles - http://diyhpl.us/~bryan/papers2/microfluidics/
