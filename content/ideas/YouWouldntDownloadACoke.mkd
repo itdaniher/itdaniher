@@ -2,7 +2,7 @@
 
 I got a chance to muck around with a Coke Freestyle machine in the past - as I mentioned, it's just a glorified bunch of printer cartridges and a CO2 tank. It was designed in part by Dean Kamen, the segway inventor.
 
-Anyway, here's a (picture)[http://farm6.staticflickr.com/5172/5495563122_b904279a9a_b.jpg].`
+Anyway, here's a [picture](http://farm6.staticflickr.com/5172/5495563122_b904279a9a_b.jpg).
 
 It's a bunch of proprietary base syrups - coke base, sprite base, etc - and proprietary flavoring mixes - cherry, lime, lemon, etc.
 
