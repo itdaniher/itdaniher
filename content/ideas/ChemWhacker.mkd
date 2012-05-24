@@ -19,7 +19,7 @@ Industrial scale chemistry relies on an impossibly complex web of interdependent
 Lab chemistry relies on a well stocked supply cabinet with hundreds of nearly identical brown bottles and a handful of reactions operating at approximately standard temperature and pressure. 
 The rationale for this is twofold. 
 
-* Many reactions have unintended side products and chiral isomers. Most of the time [citationNeeded] this is a nonissue, with a [few] [notable] [exceptions].
+* Many reactions have unintended side products and [isomers](http://upload.wikimedia.org/wikipedia/commons/7/7f/Isomerism.png). [Most](http://en.wikipedia.org/wiki/Citalopram#Stereochemistry) [of](http://www.bluelight.ru/vb/archive/index.php/t-250401.html) [the time] this is a nonissue, with a [few](http://en.wikipedia.org/wiki/Thalidomide#Teratogenic_mechanism) [notable] [exceptions].
 
 * Time is money. Expecting a lab technician to produce the needed reagents on-site is like expecting a computer programmer to write their own IDE.
 
