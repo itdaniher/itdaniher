@@ -1,0 +1,16 @@
+Pick-n-place machines are complicated. They're designed for stuffing a hundred or so circuit boards in parallel. They're very good at what they do, but not well suited towards hobby / light industry situation with a demand of one to five boards a day, especially when tying a few thousand dollars up in inventory is a problem.
+
+
+The startup approach is to rent out time on a pick-n-place machine. It's not sustainable, nor, by definition, democratizable.
+
+
+I've been working on code to make a "build tray," a piece of acrylic where surface mount components can be neatly stacked at a known X-Y coordinate, and PCBs can be held at a known X-Y offset. 
+
+
+An example of the idea can be found at http://i.imgur.com/4urMW.png.
+
+
+The ‘bot moves to the X-Y coordinates of a component, turns on the (small) vacuum, moves down until a pressure sensor indicates a part’s been picked up. The ‘bot moves up, then over to the X-Y coordinate of the part on the board, puts the part down, and repeats ad nauseam.
+
+
+The build tray looses some of the advantages of a tape feeder. It wouldn't be fully automatic, but it would let machines do what they do best (precise, rapid movements) and let humans handle the obnoxious "putting parts where the ‘bot can find them" deal. When a build tray is exhausted, lift it off the Y axis table and put a fresh one on. The design is simple, offers a straight-forward loading process, and is reproducible with a laser cutter and an internet connection.
