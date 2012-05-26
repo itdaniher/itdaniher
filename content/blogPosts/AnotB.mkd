@@ -5,3 +5,7 @@ The point is....
 * "Personal" more than "Computing"
 
 It's not about the technology as much as it's about making that technology - the engines of creation and tools of mechanization - accessible to the people who will best use it to meet needs.
+
+["It’s not a laptop project. It’s an education project"](http://laptop.org/en/vision/mission/index.shtml)
+
+...individuals are more efficient at allocating resources to meet their needs than any heirarchical structure...
