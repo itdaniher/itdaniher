@@ -7,6 +7,7 @@
 * ["The Real Power of the Word "Desktop""](https://plus.google.com/105910977869522122580/posts/KgT6EoH9PKq) - Chris Anderson
 * ["The Golden Book of Chemistry Experiments"](http://www.scribd.com/doc/21654883/The-Golden-Book-of-Chemistry-Experiments) - Brent and Lazarus
 * ["Engines of Creation"](http://e-drexler.com/d/06/00/EOC/EOC_Table_of_Contents.html) - Eric Drexler
+* ["Zen of Palm"](http://www.accessdevnet.com/docs/zenofpalm.pdf) - PalmSource etc.
 
 ### People
 
