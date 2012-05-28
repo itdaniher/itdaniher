@@ -1,3 +1,7 @@
+<link href="markdown.css" rel="stylesheet">
+
+<title> That One Time </title>
+
 ### CaringBridge / Ian Daniher / Journal
 
 #### <time> Wednesday, December 30, 2009 8:30 PM </time>
@@ -157,6 +161,7 @@ Jeff
 #### <time> Thursday, June 11, 2009 2:15 PM </time>
 
 Done and Still Not Done
+
 Graduation turned out to be something Ian reluctantly enjoyed.
 It added the sense of finality he needed, and was a great way to mark the moment.
 His grandparents from Florida and the Canton area all attended, which was a great treat.
@@ -173,9 +178,10 @@ possibilities and potential.
 It's great to be almost 18! 
 
 
-#### <time> Thursday, May 28, 2009 7:37 AMEDT
+#### <time> Thursday, May 28, 2009 7:37 AM </time>
 
 Done.
+
 And Not Done.
 Ian is "officially" done with high school.
 Tonight they have a graduation service in the school chapel, and on Sunday there is the official graduation ceremony.
@@ -194,15 +200,17 @@ Jeff
 #### <time> Friday, May 15, 2009 10:26 AM </time>
 
 The countdown continues...
+
 Today is the last day of official full school days for Ian.
 Senior chapel will mark the end of full-time attendance for all seniors.
 Because of his crazy schedule, Ian still has one class to attend for the next two weeks, and some projects to finish for other junior level classes.
 We celebrate the end of his hard work and efforts. 
 
 
-#### <time> Sunday, May 10, 2009 7:54 AMEDT
+#### <time> Sunday, May 10, 2009 7:54 AM </time>
 
-**Play it Again, Sam...**
+*Play it Again, Sam...*
+
 Sorry I didn't write sooner.
 I couldn't.
 Just couldn't commit it to print.
@@ -226,11 +234,15 @@ And we thought we were going to be done with the roller coaster ride.
 Ian is doing an amazing job learning everything he missed in his last absence, and completing missed assignments.
 He continues to just "keep on" with the most positive outlook possible.
 What else can he do?
+
 THANK YOU
-all for your prayers. - Nanci 
+
+all for your prayers. 
+
+- Nanci 
 
 
-#### <time> Saturday, April 18, 2009 5:38 AMEDT
+#### <time> Saturday, April 18, 2009 5:38 AM </time>
 
 There comes a time in every post-surgery recovery where Ian and I just get "overdone" with all things medical and surgery related.
 After Ian's pins came out (11 days ago) we just lost all interest in coping with everything that being a patient/caregiver duo entails.
@@ -259,7 +271,7 @@ God encourages us through the terrific people in our lives.
 Life goes on, and Life Is Good. 
 
 
-#### <time> Monday, April 6, 2009 9:16 AMEDT
+#### <time> Monday, April 6, 2009 9:16 AM </time>
 
 Back on the Roller Coaster
 
@@ -296,7 +308,7 @@ You make life do-able, even when it's crazy.
 Nanci
 
 
-#### <time> Wednesday, April 1, 2009 9:40 PMEDT
+#### <time> Wednesday, April 1, 2009 9:40 PM </time>
 
 In case you ever need to know...
 
@@ -314,16 +326,16 @@ JD
 
 
 
-#### <time> Wednesday, April 1, 2009 11:08 AMEDT
+#### <time> Wednesday, April 1, 2009 11:08 AM </time>
 
-**Wednesday Update: Another unscheduled appointment**
+*Wednesday Update: Another unscheduled appointment*
 
 Ian woke at 11 am to a bunch of yellow goo in the ointment. Never a good sign. Best case, it could just be a bunch of tissue breaking down. Worst case....um, we won't go there.
 
 We got to the hospital at 2:30 to have it looked at and make a plan.
 
 
-#### <time> Wednesday, April 1, 2009 6:37 AMEDT
+#### <time> Wednesday, April 1, 2009 6:37 AM </time>
 
 Roller Coaster Ride
 
@@ -338,7 +350,7 @@ He's not awake yet this morning. I let him sleep in hopes that his tummy feels b
 Will update later today when I see what shade of trouble we have now.
 
 
-#### <time> Monday, March 30, 2009 8:41 AMEDT
+#### <time> Monday, March 30, 2009 8:41 AM </time>
 
 Hello All...this is an update from Sunday
 
@@ -351,20 +363,22 @@ Ian and Nanci are at Shriners right now for a follow up visit.
 JD
 
 
-#### <time> Friday, March 27, 2009 9:23 PMEDT
+#### <time> Friday, March 27, 2009 9:23 PM </time>
 
-Cellulitis: *Ian's case is about the size of a dime around where the pins stick out. Threatens limb, but not life at this point.*
+Cellulitis
+
+*Ian's case is about the size of a dime around where the pins stick out. Threatens limb, but not life at this point.*
 
 Never good news, but we hope we caught it early enough. *No red streaks (blood poisoning) leading down the arm, so it's not near systemic.* He's on an oral antibiotic and topical silver/sulfa treatment. We have an appointment Monday morning for a re-check, and orders to call over the weekend if there is anything but improvement. *Ian has had many complications in his 18 surgeries...failed portions of graft, necrotic tissue, and misaligned bone structure. In order to round out our experiences, we had to try infection too....right?*
 
-The site around the pins, where Ian's thumb has problems, sometimes gets like this when the body doesn't adjust well to the presence of pins, or pressure on the thumb in the wrong place...add some stray bacteria, and here we are. We got a new splint.. We got medication. *On the woulda, coulda, shoulda questions. We were good about care, but can always have been better. *
+The site around the pins, where Ian's thumb has problems, sometimes gets like this when the body doesn't adjust well to the presence of pins, or pressure on the thumb in the wrong place...add some stray bacteria, and here we are. We got a new splint.. We got medication. *On the woulda, coulda, shoulda questions. We were good about care, but can always have been better.*
 
 *Ian is now at home. He is doing chemistry, so he's not dwelling on the risk factors with his thumb. Distraction is very good.*
 
 And we're praying.
 
 
-#### <time> Friday, March 27, 2009 3:01 PMEDT
+#### <time> Friday, March 27, 2009 3:01 PM </time>
 
 Cellulitis
 
@@ -375,7 +389,7 @@ The site around the pins, where Ian's thumb has problems, sometimes gets like th
 And we're praying.
 
 
-#### <time> Friday, March 27, 2009 9:21 AMEDT
+#### <time> Friday, March 27, 2009 9:21 AM </time>
 
 A little help, please.
 
@@ -392,10 +406,10 @@ Any and all prayers are appreciated.
 Jeff
 
 
-#### <time> Monday, March 23, 2009 12:05 PMEDT
+#### <time> Monday, March 23, 2009 12:05 PM </time>
 
 
-#### <time> Saturday, March 21, 2009 7:33 PMEDT
+#### <time> Saturday, March 21, 2009 7:33 PM </time>
 
 Gruesomely Beautiful!
 
@@ -416,9 +430,10 @@ Thanks Doc. Thanks Shriners. Thanks to all of you for your prayers. And support.
 Jeff
 
 
-#### <time> Tuesday, March 17, 2009 8:23 AMEDT
+#### <time> Tuesday, March 17, 2009 8:23 AM </time>
 
 Back in the saddle...
+
 Ian didn't spend much time in do-nothing recovery mode. Yesterday, he took time to [begin] to clean his basement lab.
 
 He has, however, finally relented and takes pain medication at night so that he can function in the late afternoon and sleep at night.
@@ -434,9 +449,10 @@ The long view is really important to lots of things...like financial markets.
 Wishing everyone an optimistic day! 
 
 
-#### <time> Saturday, March 14, 2009 10:26 AMEDT
+#### <time> Saturday, March 14, 2009 10:26 AM </time>
 
 Home and happy...
+
 Ian is reading the latest issue of Technology Review on the couch. (Thanks, Grandpa Frank!)
 
 All concerned with Ian's care have suggested pain medication, but Ian prefers a clear head. So, he's just hanging in and trying to be the tough guy. Anyone who wants to give him a call on his cell phone or our home phone this morning is welcome to. It would be a great distraction. Of course, I'm sure he'll be online later today.
@@ -450,9 +466,10 @@ Thanks to all for your prayers and good wishes. Please keep praying for Ian's pa
 Til later... 
 
 
-#### <time> Saturday, March 14, 2009 8:18 AMEDT
+#### <time> Saturday, March 14, 2009 8:18 AM </time>
 
 Freedom!
+
 [Nanci here] Ian will be picked up at the hospital at 9:30 am. He will be headed home for a weekend of rest.
 
 Warning to all potential visitors...Ian is coming home to a brother (and maybe mom) with a virus that includes cough and fever. Sean has been home all week with this bug. We kept thinking he was better, and then he would take a turn for the worse. It is going around school for ALL the kids I know in the area. So, we will keep you posted about the situation here.
@@ -464,7 +481,7 @@ Megan and Jeff are away at the regional YMCA swim championships. Ian's surgery w
 Ian won't be running a marathon anytime soon, but hopefully he will bounce back quickly.
 
 
-#### <time> Friday, March 13, 2009 11:05 AMEDT
+#### <time> Friday, March 13, 2009 11:05 AM </time>
 
 Surgery is Done 
 
@@ -488,11 +505,9 @@ What we don't know at this time is whether this will be his last surgery or not.
 
 Nanci and I ask for the following prayers:
 
-1) In gratitude for the people of Shriners: The donors, the doctors and nurses, and all of the staff.
-
-2) For healing for Ian's hand.
-
-3) For the other kids here; for their healing both in body and in mind. This is especially important for the young man who that has been here for the last month that unfortunately came into contact with a high power line while helping at home. He has lost an arm.
+* In gratitude for the people of Shriners: The donors, the doctors and nurses, and all of the staff.
+* For healing for Ian's hand.
+* For the other kids here; for their healing both in body and in mind. This is especially important for the young man who that has been here for the last month that unfortunately came into contact with a high power line while helping at home. He has lost an arm.
 
 Through all of this, we have been blessed beyond belief. Each one of you taking an interest in a young man who, while creative, was not as cautious as he should have been. It is easy to judge how stupid this was, and yet, I know that Ian and us have never felt judged. Instead, we have felt loved beyond belief.
 
@@ -514,7 +529,7 @@ More after he is out.
 J
 
 
-#### <time> Friday, March 13, 2009 6:01 AMEDT
+#### <time> Friday, March 13, 2009 6:01 AM </time>
 
 Good Morning!
 
@@ -533,9 +548,10 @@ Until then,
 Jeff
 
 
-#### <time> Wednesday, March 11, 2009 8:44 PMEDT
+#### <time> Wednesday, March 11, 2009 8:44 PM </time>
 
 Perspective
+
 This is what you get when you stop feeling sorry for yourself and your own situation and you realize how your life could be so very much different, maybe in a not good way.
 
 Ian's accident was two years ago. For the most part, he is as recovered as he is likely to be. Sure, the next few surgeries will require visits to the hospital, therapy and medication for the pain. But, in between these short periods of time, everything is pretty much back to normal. He is able to do nearly everything he wants, when he wants, the way he wants. (Except for swearing with the left hand. The short middle finger just does not have the same impact.) Because of the generosity of people that we will likely never meet, Ian's life will be just fine.
@@ -545,7 +561,7 @@ With the economy being the way that it is, giving to charity seems to be even mo
 Jeff Daniher
 
 
-#### <time> Monday, March 9, 2009 6:06 PMEDT
+#### <time> Monday, March 9, 2009 6:06 PM </time>
 
 And now, a commercial...
 
@@ -553,12 +569,10 @@ Need somebody for your prayer list (besides Ian and his pseudo wannabe blogger f
 
 jd
 
- 
-
-
-#### <time> Sunday, March 8, 2009 6:53 AMEDT
+#### <time> Sunday, March 8, 2009 6:53 AM </time>
 
 The Saga Continues--2 years and counting
+
 Ian's next surgery is scheduled for lucky Friday the 13th of March. This one will, hopefully, restore additional function to his hand as well as touch things up cosmetically. It will involve pins, graphs and splints. The surgery date was selected as Ian will be off school for break and can minimize time off of from school.
 
 Speaking about school, Ian has narrowed his college choices down to a first and a second. In second place is Case Western Reserve University in Cleveland, Ohio. A few weeks ago, Ian and his parents spent two days there and found the school to be exceptional. The only downside that we can see is that the dorm is about a half mile from where the classrooms are, and Cleveland gets cold in the winter. Duh! This is part of the reason that Jeff and Nanci moved from there back in 1991. In any case, this would be a fantastic experience for Ian.
@@ -576,9 +590,10 @@ Now, for a brief message from the sponsor. It seems that every spring, from Mid 
 Jeff 
 
 
-#### <time> Wednesday, October 15, 2008 9:15 PMEDT
+#### <time> Wednesday, October 15, 2008 9:15 PM </time>
 
 Been too long...
+
 Ian is busy with college applications, AP classes, and other senior year in high school stuff.
 
 He has begun looking at colleges, and has a few on his wish list, including Olin in Boston, MIT in Boston, UC Honors, Purdue and Grove City.
@@ -592,9 +607,10 @@ As over eighteen months have elapsed since his accident, it is hard to imagine I
 Jeff 
 
 
-#### <time> Thursday, April 24, 2008 12:46 PMEDT
+#### <time> Thursday, April 24, 2008 12:46 PM </time>
 
 A GOOD DAY
+
 I don't think we're ready for any celebrations, but we did get some assurances yesterday from the medical team. They are going to redouble their efforts to schedule around his academic and "senior year" needs, so that he can have things to look forward to.
 
 This was the little bit of hope Ian needed right now!
@@ -608,9 +624,10 @@ We'll keep you posted.
  Nanci 
 
 
-#### <time> Tuesday, April 22, 2008 2:12 PMEDT
+#### <time> Tuesday, April 22, 2008 2:12 PM </time>
 
 ON THE EDGE OF NORMALCY
+
 We have been at this so long; surgeries are getting farther apart and shorter; rehab appointments are fewer but continuing. Many people understandably think we're bringing this chapter of our lives in for a landing.
 
 Today, it's almost as raw as it has ever been.
@@ -626,9 +643,10 @@ Just plain "How can I keep up?"
 Sucks to be Ian right now. 
 
 
-#### <time> Monday, April 14, 2008 10:37 AMEDT
+#### <time> Monday, April 14, 2008 10:37 AM </time>
 
 PRAYERS AND PROGRESS
+
 Well, we have another appointment with the doctor today.
 
 Ian spent last week sick with a respiratory virus, and the weekend recuperating.
@@ -642,9 +660,10 @@ Thanks for your prayers; I'll try to update this evening.
 Nanci 
 
 
-#### <time> Thursday, April 10, 2008 11:10 PMEDT
+#### <time> Thursday, April 10, 2008 11:10 PM </time>
 
 BACK IN THE SADDLE AGAIN
+
 We're back fighting our old friend "scar" It is as discouraging and scary as ever.
 
 The crazy thing in all of this is that intellectually and spiritually, I really believe that focusing on positives is key. I believe that raising my children in a privileged part of a privileged country is no small thing, and we are eternally grateful.
@@ -658,9 +677,10 @@ I wish we could. That's the problem.
 So we keep praying prayers of thanks. And we keep praying to STAY mindful of that thankfulness. 
 
 
-#### <time> Tuesday, April 8, 2008 8:19 AMEDT
+#### <time> Tuesday, April 8, 2008 8:19 AM </time>
 
 MORE OF THE SAME
+
 Ian went in for a splint change on Friday. The grafts are doing some more of the excessive scarring they have done thus far, and we continue to fight the trend. We keep working on additional movement, but it is slow. Ian is wearing his splint daily. It is small (wrapped around his palm and hand only) and doesn't get in the way too much.
 
 This morning, Ian woke up with a fever of 101. More time off school.
@@ -668,9 +688,10 @@ This morning, Ian woke up with a fever of 101. More time off school.
 Sometimes just feels like a record (kids: a vinyl audio disc, usually black in color, pre-dating CDs and MP3s) with a serious skip in it. Repeat. Repeat. Repeat.
 
 
-#### <time> Wednesday, April 2, 2008 9:15 AMEDT
+#### <time> Wednesday, April 2, 2008 9:15 AM </time>
 
 Onward...
+
 One of the big concerns with Ian's surgery was whether the skin graft would "take" or fail. His hand hasn't had the best circulation since the accident, and we've already experienced undue scarring and black ugly spots before. Not something we dwell on; but always there in the back of our minds.
 
 So far, it looks like everything is settling in nicely. Ian has been doing most of his dressing changes, with help from family. It is amazing to see the change one year can make in a young man.
@@ -688,9 +709,10 @@ Thank you all for your continued prayers.
 Nanci 
 
 
-#### <time> Saturday, March 29, 2008 6:46 PMEDT
+#### <time> Saturday, March 29, 2008 6:46 PM </time>
 
 Busy, Busy, Busy...
+
 Sorry for keeping any of your readers in suspense about what we found when Ian's bandages were removed. Nanci and Megan had to get ready for the YMCA swim meet in Florida, and we each thought that the other was going to handle it...well, nevermind.
 
 Ian gladly removed his bandages yesterday, and Dr. Yak seemed to be pleased. There is a good bit of bruising and the grafts are the terrific red, purple and green colors, but this is as to be expected. The great news is that the scar tissue that was keeping Ian's thumb in place is now gone, and it has much more freedom of movement.
@@ -708,9 +730,10 @@ Have a great evening.
 Jeff 
 
 
-#### <time> Friday, March 28, 2008 12:52 PMEDT
+#### <time> Friday, March 28, 2008 12:52 PM </time>
 
 NEWS TO COME
+
 We have our post-op "open the bandages" appointment late today. Ian is, understandably, nervous about the whole thing...yet excited to lose the rather ripe gauze assembly.
 
 More later... 
@@ -719,6 +742,7 @@ More later...
 #### <time> Wednesday, March 26, 2008 2:47 PM </time>
 
 IT'S ALL ABOUT BALANCE
+
 It's been a few days since Ian's surgery, and we've got the medications sort of balanced. Ian is able to be up and around most of the day, taking pain meds about every 6 hours or so. Monday, he experienced all the bad things that happen when you wait TOO LONG between doses.
 
 He has slowed down enough that I was able to chase him down and tie him to a chair long enough for a haircut.
@@ -732,7 +756,7 @@ Smile, wait, and see....
 PS. I had technical difficulties today, so if you got a blank journal entry for 1/2 hour, I aplogize. 
 
 
-#### <time> Sunday, March 23, 2008 9:25 PMEDT
+#### <time> Sunday, March 23, 2008 9:25 PM </time>
 
 We had a happy, if a bit odd, Easter weekend. Jeff and I went to church. Sick (bad cold) and post-op children all stayed home. The service was one of the most memorable we've ever been to. Wow! God's grace is wonderous!
 Ian's side is stiff and in pain, but his spirits are high. Visits from his girlfriend, Cara, and good friend, Alex kept him in good company. His little pink fingertips are peeking out of his bandages. We check them every now and then. Other than that, and a complicated "keep the arm dry" shower process, there's not much to do this week.
@@ -742,9 +766,10 @@ Cell phones with free Verizon to Verizon calling are the 21st century version of
 Good night to all....Nanci 
 
 
-#### <time> Saturday, March 22, 2008 12:45 PMEDT
+#### <time> Saturday, March 22, 2008 12:45 PM </time>
 
-The back side of all that R &amp; R....
+The back side of all that R& R....
+
 ...was that Ian awoke at about 3 am rarin' to go. He fidgeted, watched TV, and we took a walk to the nurse's station at about 5 am, got some snacks and medicine. He mercifully slept until about 9 am.
 
 I couldn't help but rememember lying semi-comatose on the couch at 4 am watching two-year-old Ian enthusiastically playing with blocks. What memories!
@@ -754,9 +779,9 @@ The best news today is WE'RE HOME!
 Ian is napping now, but quite ready to welcome visitors this evening onward.
 
 
-#### <time> Friday, March 21, 2008 10:01 PMEDT
+#### <time> Friday, March 21, 2008 10:01 PM </time>
 
-**R &amp; R**
+*R&R*
 
 One of Ian's biggest challenges over the last couple of years has been finding "down time". He is enthusiastically involved in so many things, that he has very little time to just chill.
 
@@ -777,9 +802,11 @@ And God will continue to lead, even if I don't always like it.
 Nanci
 
 
-#### <time> Friday, March 21, 2008 12:54 PMEDT
+#### <time> Friday, March 21, 2008 12:54 PM </time>
 
-4:36 PM update...Ian is awake. His thumb has returned to a nice pink color from being a touch red. His goal is to get decoupled from the IV ASAP and he hopes not to use the pain pump. I will likely head home sometime soon and Nanci plans on staying with Ian.
+4:36 PM update...
+
+Ian is awake. His thumb has returned to a nice pink color from being a touch red. His goal is to get decoupled from the IV ASAP and he hopes not to use the pain pump. I will likely head home sometime soon and Nanci plans on staying with Ian.
 
 JD
 
@@ -802,9 +829,11 @@ I will do my best to post again tonight after Ian has had a bit of time to recov
 Jeff
 
 
-#### <time> Friday, March 21, 2008 3:46 AMEDT
+#### <time> Friday, March 21, 2008 3:46 AM </time>
 
-PS (Pre Script) Ian was taken back to surgery after a little two year old with burns to his hands. Surgery began around 10; to be over between 11 and noon. JD
+PS (Pre Script) 
+
+Ian was taken back to surgery after a little two year old with burns to his hands. Surgery began around 10; to be over between 11 and noon. JD
 
 Deja Vu all over again...
 
@@ -831,7 +860,7 @@ Thanks.
 Jeff
 
 
-#### <time> Tuesday, March 18, 2008 5:16 PMEDT
+#### <time> Tuesday, March 18, 2008 5:16 PM </time>
 
 Lost Track of Time
 
@@ -853,6 +882,7 @@ Jeff
 #### <time> Friday, March 7, 2008 9:43 AM </time>
 
 CHANGES ARE A PART OF LIFE...
+
 Due to the nature of work at Shriners Hospital, surgeries are scheduled and rescheduled based on the needs of the most critical patients. The acute unit has been very busy, so the schedule has been thrown off a bit. Ian's surgery has been moved back a week, to March 21st. Unfortunately, he will likely miss at least a week of school.
 
 Life goes on....
@@ -870,8 +900,10 @@ Nanci for the clan
 
 #### <time> Monday, February 18, 2008 6:29 PM </time>
 
-  
-Jeff's impressions of Olin College. Stuff in quotes are comments that I overheard...
+Jeff's impressions of Olin College. 
+
+Stuff in quotes are comments that I overheard...
+
 Kids learning just for learning. Taking apart stuff. Asking questions. "What do you do in that class? Oh, that is cool. Hey, gotta run because I have some school work to do and I better eat before the cafeteria closes."
 
 Four kids sitting around discussing how to start up a repair committee to fix non functional OLPCs.
@@ -896,7 +928,7 @@ The dress code? Cool t-shirts and tennis shoes. Gotta have tennis shoes. If your
 
 At meals, the tables fill up with newcomers taking up open spaces, not moving to a new table until each other one is nearly filled. Hello. Smiles. In such a small school of 300, everyone knows everyone. Most kids have nicknames based on email handles. Do you know if I Google my name a Canadian country singer comes up (and a bad one at that?)
 
-In many ways, I have visited the twilight zone of cutting edge education. Think letting a group of homeschoolers with unlimited resources, surrounded by like minded peers with state of the art equipment. About half men, half women. A hodge podge of m&amp;ms of ethnicity. 
+In many ways, I have visited the twilight zone of cutting edge education. Think letting a group of homeschoolers with unlimited resources, surrounded by like minded peers with state of the art equipment. About half men, half women. A hodge podge of m&ms of ethnicity. 
 
 Oh, did I mention that the school is free? All you pay is room and board…The challenge is that there are ten times as many who apply as can get in.
 
@@ -911,17 +943,17 @@ Gotta go grab some dinner, and then try to pry Ian away from this place. He used
 #### <time> Sunday, February 17, 2008 4:13 PM </time>
 
 Inside Ian's Mind
+
 I am not sure that this entry will make sense. It is going to be my best shot at having a play by play about Ian's visit to the headquarters of One Laptop Per Child...
 
 Some months ago, almost 12 to be exact, Ian was lying in the bed at Shriners. He got this look in his eyes that we have seen so many times before. He was looking at some of the wires that were connected to his body, and then at the machines. I asked him what was up. He then launched into a short explanation of how it might be possible to make wireless connections...and this led into his exploration of designing peripherals for One Laptop Per Child PCs...
 
 More to follow...  
 
-
-
 #### <time> Sunday, February 10, 2008 3:01 PM </time>
 
 Countdown
+
 Well, we are in the home stretch before Ian's next surgery. As March 14 approaches, Ian continues to watch his grades and diligently approach his work. In honors Physics, he and his friends are disassembling lawnmower engines for classwork. He is like a kid in a candy shop! As an aside, his attention to this project has caused him to delve more deeply into the question of how to make his left hand do more useful labor in day to day things.
 
 On Friday night, Ian hung out with some guys and had Little Debbies, Pop Tarts, and orange drink for dinner. Now this is high school! Seriously, he hasn't had many days to just hang out and have fun with the guys.
@@ -939,7 +971,7 @@ Surgery will follow. We appreciate everyone's prayers for a once-and-for-all fix
 Our church just started a new series about the challenges of being distracted by consumption vs. living purposeful lives consumed by a desire to do good...God's work...in the world. We, the Danihers, have lived much of the last 3 years in a holding pattern. This journey we are embarking on with our church seems particularly appropriate as we turn our attention to the question "What next?"
 
 Nanci, the Mom 
-
+dd
 
 #### <time> Wednesday, February 6, 2008 1:59 PM </time>
 
@@ -961,9 +993,9 @@ Think about it again. Can you name any species that spends so much time dependan
 
 I am still regularly asked how is Ian doing. I don't have much in the way of new news, and my response usually concerns his being a teenager, dealing with school, a girlfriend, peers, getting his learners permit, preparing for college, both visits and exams, and bugging his mom and dad about allowing him to get a job. Not that he has much time to work on extra chores around the house, mind you, but in fairness to Ian, he is better than average on the last topic. (OK Ian, I said better than average, but not perfect...try folding and putting away your clean clothes please. And your bedroom...well, let's not go there!)
 
-What I am less likley to respond is that I have no idea how anyone can raise teenagers. I mean, come on. Is there any more demanding, know everything, temperamental, emotional, crisis loving and crisis creating age group? For those of you how have survived this time, **how did you do** **it?**
+What I am less likley to respond is that I have no idea how anyone can raise teenagers. I mean, come on. Is there any more demanding, know everything, temperamental, emotional, crisis loving and crisis creating age group? For those of you how have survived this time, *how did you do* *it?*
 
-I remember being sleep deprived when the kids were infants. Now Nanci and I are sleep deprived, social life deprived, and our wallets are readily drained of folding money to an extent I did not dream possible. Teenagers eat like goats (everything and in large quantities), expect to have the latest and greatest technology (but Dad, all my friends have their own cell phones....and unlmited texting), outgrow their clothes (must also be the \*right\* clothes) faster than Cincinnati weather changes, and have schedules today that make my head spin. Why? What is the purpose of this? Is it some type of cosmic pledging process that God created to show his sense of humor? Is there a special fraternity that we get to join after one has teenagers "grown" and out of the house? Do you not get to join if your children boomarang back into your basement between college and "real world" work?
+I remember being sleep deprived when the kids were infants. Now Nanci and I are sleep deprived, social life deprived, and our wallets are readily drained of folding money to an extent I did not dream possible. Teenagers eat like goats (everything and in large quantities), expect to have the latest and greatest technology (but Dad, all my friends have their own cell phones....and unlmited texting), outgrow their clothes (must also be the *right* clothes) faster than Cincinnati weather changes, and have schedules today that make my head spin. Why? What is the purpose of this? Is it some type of cosmic pledging process that God created to show his sense of humor? Is there a special fraternity that we get to join after one has teenagers "grown" and out of the house? Do you not get to join if your children boomarang back into your basement between college and "real world" work?
 
 Hey mom and dad, how did you do it? Was I like this? I don't remember being this way. I do remember how smart you became once I graduated from college, and I thought that I was the one who went away to learn something. (Please don't remind me again about the time that I ran away from home in my socks. Nobody wants to hear this story again, especially me. And no, it is not funny. Really!) Come to think of it, you still are seeming to grow smarter and wiser by the day! And, sometimes I even pay when we go out to eat together, unless Dad reaches for his wallet first.
 
@@ -996,27 +1028,10 @@ Have a great weekend!
 
 Ian's Dad
 
-
-#### <time> Friday, January 25, 2008 3:49 PM </time>
-
-11 Months and Counting
-
-Since February is a tricky month, with 29 days this time, I figured the above title is about right. Hard to believe. Nearly a year has gone by, and so, maybe, an update into the mind of Ian from his Dad's perspective is appropriate.
-
-Ian has always been interested in all things electronic, from the earliest of days. He had buckets of junk parts from old PCs, broken toys, appliances and so on in his room for as long as I can remember. Well, that is not totally accurate. The parts were in his room and spread throughout the house as his projects had a way of popping up under foot, on the counters and so forth.
-
-I feared that Ian would lose his interest after his accident. Nah, not a chance. We continue to battle with him about doing his schoolwork and balancing his extra curricular computing, designing and hacking. Through in time with his girlfriend, his buddies, and other items like academic team and science olympiad and we hardly see him. He hangs out, like many teenagers, in his room, chatting with peers working on the One Laptop Per Child help desk, or his tele-med project (By the way, does anyone have a spare ocilliscope laying around the house or lab?)
-
-Ian's latest school wish is a school called Olin, a newly created school for engineers. Here is a link to check out.  and  For those of you who know Ian personally, doesn't this sound like it will fit him to a T? Now, the question is how do we get him in? Any ideas? Should we start a "save Ian, send him to Olin" campaign?
-
-Have a great weekend!
-
-Ian's Dad
-
-
 #### <time> Tuesday, January 22, 2008 11:31 AM </time>
 
 ALL THINGS NON-MEDICAL
+
 Ian started back to school today on his 2nd Semester of Junior year. He has spent the last week gearing up for this semester and looking forward to summer.
 
 Besides looking forward to driving school....
@@ -1026,12 +1041,13 @@ Ian is checking out options for summer internships. There are many exciting oppo
 
 #### <time> Friday, January 18, 2008 1:09 PM </time>
 
-\*\*\*|\*\* PICTURES\**\*|\*
+PICTURES
+
 As mentioned often, Ian's hand  
 
  is a work in process.
 
-Go to \*\*PHOTOS\*\* section for updates.
+Go to PHOTOS section for updates.
 
 On March 14, Ian's thumb will be pinned in a re-aligned position, much of the scar tissue will be removed, and new palm tissue will be added to give better grasping ability.
 
@@ -1039,11 +1055,11 @@ Hopefully the photos will give some context to all the friends and family who ha
 
 In theory, Ian should be able to do three new things by summer:
 
-**put his hand/palm flat on a table  
+* put his hand/palm flat on a table  
 
- **while keeping his hand flat on a table, he should be able to move his thumb next to his index finger, and then far away in an L shape.  
+* while keeping his hand flat on a table, he should be able to move his thumb next to his index finger, and then far away in an L shape.  
 
- **touch his thumb to the base of his pinky (at the top of his palm)
+* touch his thumb to the base of his pinky (at the top of his palm)
 
 With much prayer, skill from the surgeon, and surviving tendon tissue, all this should happen with this one more surgery.
 
@@ -1054,9 +1070,9 @@ If all this goes well, the FIRST thing Ian will do is get his Temp Permits for d
 
 #### <time> Thursday, January 3, 2008 7:02 PM </time>
 
-**New Year; New Progress**
+*New Year; New Progress*
 
-**Old projects**
+*Old projects*
 
 Ian continues to enjoy the New Year with friends. He has been to parties and movies with local friends from school, and continues to network with international colleagues working on One Laptop Per Child. Ian has garnered the interest of a mentor in the field of medical electronics development, and continues to have regular phone meetings to plan his professional development. Ian has never been one to let schoolwork interfere with scientific exploration, but he managed some nice grades and study habits by the end of last semester. All in all, his life is shaping up nicely...lots of fun and adventure, and plenty of hard work.
 
@@ -1080,6 +1096,7 @@ Nanci (The Mom)
 #### <time> Tuesday, January 1, 2008 9:13 AM </time>
 
 Happy New Year!
+
 Good Morning everyone, or good whatever time it is that you are reading this.
 
 I have been waiting for this day for months now. New Year's Day. Fresh Start. A New Beginning. Last Year Is Behind Us. The Year From Gahena Is Buried In The Past.
@@ -1098,6 +1115,7 @@ Jeff
 #### <time> Tuesday, December 4, 2007 10:07 PM </time>
 
 Nine Months and counting...
+
 When I close my eyes and think about 2007, most times it seems that they year has flown past. But I know that this has not been true. There have been minutes that have seemed like hours or days. There have been days that seemed like months, and months that, well, you get the picture.
 
 I really can't tell any of you who are still reading this much more than thank you. Sincerely, thank you. In a small way, but still in a very significant way, knowing that there are others out there that truly care about a boy named Ian, his injury and recovery, and his family, has kept me going when all I want to do is sit down and give up.
@@ -1133,7 +1151,7 @@ Jeff
 
 #### <time> Thursday, November 15, 2007 8:58 PM </time>
 
-**The Thumper Rule**
+*The Thumper Rule*
 
 Years ago, while trying to corral my toddlers and keep their budding verbal skills in check, I borrowed some help from Disney. Bambi's friend, Thumper, was chastised by his mother for an unkind remark about Bambi's shaky new legs. Mama bunny made Thumper sheepishly recite the rule: "If ya can't say nothin' nice; don't say nothin' at all." This was a mantra I would use often to remind my own children to hold their tongues. It made sense to my toddlers. Who could resist a feisty, furry bunny dispensing advice?
 
@@ -1141,7 +1159,7 @@ Don't know what it says about my own maturity level, but this was - I think - th
 
 Thanks to all of you for waiting patiently. I cannot imagine doing the last 6 months without our friends, neighbors, and partners in prayer across the ocean. Thank you. Thank you. Thank you!
 
-Ian's new thumb* did* survive the transfer from its old home on his foot to his left hand. But it did not do so with aesthetically or functionally pleasing results. There are many reasons for this. Most of those reasons involve rediculously detailed descriptions of the complicated hand and foot anatomy, inopportune scarring, combined with Ian's particular injuries. (remember all those unseen internal electrical burns?)
+Ian's new thumb *did* survive the transfer from its old home on his foot to his left hand. But it did not do so with aesthetically or functionally pleasing results. There are many reasons for this. Most of those reasons involve rediculously detailed descriptions of the complicated hand and foot anatomy, inopportune scarring, combined with Ian's particular injuries. (remember all those unseen internal electrical burns?)
 
 It was hard for either of us to know what to say.
 
@@ -1160,9 +1178,10 @@ More to come.
 *Nanci*
 
 
-#### <time> Tuesday, October 23, 2007 10:24 AMEDT
+#### <time> Tuesday, October 23, 2007 10:24 AM </time>
 
 Yes, we're still here!
+
 There has been no new news to report. Ian's new thumb is still attached, looks pretty good, but doesn't do much yet. We're waiting and watching.
 
 He has started once or twice daily therapeutic electrical stimulation (ironic, huh?) on his hand. About 3.5 v make the muscles involuntarily contract, and in so doing exercise the muscles and "exercise" the nerves.
@@ -1172,14 +1191,10 @@ Our next appointment with the doc is on Friday.
 Nanci 
 
 
-#### <time> Tuesday, October 23, 2007 10:23 AMEDT
-
-Yes, we are still here! 
-
-
-#### <time> Wednesday, September 26, 2007 4:55 PMEDT
+#### <time> Wednesday, September 26, 2007 4:55 PM </time>
 
 Welcome back to Academia, Ian!
+
 It may seem somewhat split-personality to read this post after my last. Guess that's just the nature of recovery. Take your moment to grieve; then move on.
 
 Ian has officially returned back to school. He is taking Honors Physics, AP Chem, Honors Pre-Calc, and AP Latin. He will likely take an English course this summer. Right now, that schedule seems manageable, but still exhausting. Ian's foot doesn't like all the new activity. But it isn't getting in his way much...I need to park the car, go into the school, into the science wing, and personally haul him out to the car every day. He's very glad to be back!
@@ -1193,9 +1208,9 @@ Our family is grateful to be a world away from the acute crisis world we lived i
 We're just taking everything one day at a time....with gratitude. 
 
 
-#### <time> Sunday, September 23, 2007 11:26 PMEDT
+#### <time> Sunday, September 23, 2007 11:26 PM </time>
 
-**So Far Away...**
+*So Far Away...*
 
 Mom here...on an I-can't-sleep night. Having lots of those lately.
 
@@ -1213,7 +1228,7 @@ So that is where faith comes in. I am generally a detail freak, but not a contro
 
 I have little control in all this. Ian has little control in all this. ["Keep trying and stretching" is still not control] The whole process is that the surgeon has control over the decisions about what to do...what tendons to connect. What tissue to leave or keep. When to do surgeries. It is a dialogue between Ian's healing tissue and him. WE are largely superfluous to the process. It's a bit disarming, to say the least.
 
-I have seen this helplessness play out in Ian's thoughts in recent days. I tell him the truth...it is our *only option for reconstruction * to go down this path and see where it leads. God will watch over Ian and heal his heart and his body. It is our job to just keep on doing whatever it is we are told, keep asking questions, and keep praying.
+I have seen this helplessness play out in Ian's thoughts in recent days. I tell him the truth...it is our *only option for reconstruction* to go down this path and see where it leads. God will watch over Ian and heal his heart and his body. It is our job to just keep on doing whatever it is we are told, keep asking questions, and keep praying.
 
 "Just" that. :-)Thanks, God, for doing it with us! 
 
@@ -1233,7 +1248,7 @@ However, you'll get a really good idea of where we're going. This gave Ian some 
 
 #### <time> Tuesday, September 18, 2007 12:03 PM </time>
 
-**Two steps forward....**
+*Two steps forward....*
 
 Ok, so I haven't updated for awhile.
 
@@ -1253,11 +1268,10 @@ Then there is much good news...
 
   
 Continuing one day at a time,  
+
 Nanci for the Danihers  
 
-
-
-#### <time> Thursday, September 13, 2007 8:30 AMEDT
+#### <time> Thursday, September 13, 2007 8:30 AM </time>
 
 Progress
 
@@ -1278,7 +1292,7 @@ So we continue to try focusing on what IS easy; what IS beautiful; what IS good.
 Have a wonderful day!
 
 
-#### <time> Tuesday, September 11, 2007 8:35 AMEDT
+#### <time> Tuesday, September 11, 2007 8:35 AM </time>
 
 You want me to wait HOW long?
 
@@ -1295,7 +1309,7 @@ We're off to investigate homework.
 One day at a time....
 
 
-#### <time> Monday, September 10, 2007 3:24 AMEDT
+#### <time> Monday, September 10, 2007 3:24 AM </time>
 
 With a little help from our friends...
 
@@ -1312,7 +1326,7 @@ Jeff
 Oh, by the way, Ian will be coming home today. But that is secondary to the thank you to everyone who has been helping us out.
 
 
-#### <time> Friday, September 7, 2007 9:29 PMEDT
+#### <time> Friday, September 7, 2007 9:29 PM </time>
 
 Visitors Welcome!
 
@@ -1327,7 +1341,7 @@ Jeff
 P.S. This is now our hundredth entry since starting this blog last March. There have been over 10,000 visits to this site since then. We can't thank you enough for your care, love and support.
 
 
-#### <time> Friday, September 7, 2007 10:58 AMEDT
+#### <time> Friday, September 7, 2007 10:58 AM </time>
 
 Surprise. Surprise. Surprise!
 
@@ -1360,7 +1374,7 @@ I got these very good questions today, so....
 They took Ian back to the O.R. under anesthesia, discovered the more healthy tissue, then cleaned up all his surgery and donor sites (as long as he was already out cold). He was quite grateful to be asleep for all that! Ian will remain at Shriners for the weekend, to keep an eye on the improving tissue. As long as we get no new surprises, we expect he will return home Monday or Tuesday of next week.
 
 
-#### <time> Friday, September 7, 2007 12:27 AMEDT
+#### <time> Friday, September 7, 2007 12:27 AM </time>
 
 What is normal anyway?
 
@@ -1385,7 +1399,7 @@ To my wife, Nanci, and to my other kids, Megan and Sean, know that I love you. L
 Jeff
 
 
-#### <time> Wednesday, September 5, 2007 7:47 PMEDT
+#### <time> Wednesday, September 5, 2007 7:47 PM </time>
 
 Great Expectations
 
@@ -1412,7 +1426,7 @@ On one small but still amazing note, nearly 10,000 hits have been received by th
 Jeff
 
 
-#### <time> Tuesday, September 4, 2007 5:02 PMEDT
+#### <time> Tuesday, September 4, 2007 5:02 PM </time>
 
 Yes, but...
 
@@ -1437,9 +1451,9 @@ Thanks to those who are already doing this and much more. You HAVE made the worl
 Jeff
 
 
-#### <time> Tuesday, September 4, 2007 11:46 AMEDT
+#### <time> Tuesday, September 4, 2007 11:46 AM </time>
 
-**Looking good!**
+*Looking good!*
 
 The dressing change went well. Ian's arm is now in a splint, and down from the sling. How cool to be able to move without an IV pole in tow! The protective splint will keep his thumb from being bumped.
 
@@ -1460,9 +1474,9 @@ Ian is so blessed to have the opportunity for a second chance at a thumb. When I
 Til later...Nanci
 
 
-#### <time> Monday, September 3, 2007 7:32 PMEDT
+#### <time> Monday, September 3, 2007 7:32 PM </time>
 
-**Freedom...**
+*Freedom...*
 
 Ian's IV line was getting old, painful, and leaky, so it was removed this evening. Yay! Ian now has a comfortable right hand for using his laptop, the TV remote, and feeding himself. Now he better eat and drink so they don't have to put a line back in!
 
@@ -1473,7 +1487,7 @@ Progress is, I think, always slower than we would like. I was just talking with 
 Nanci
 
 
-#### <time> Sunday, September 2, 2007 10:19 PMEDT
+#### <time> Sunday, September 2, 2007 10:19 PM </time>
 
 Moving Forward!
 
@@ -1492,7 +1506,7 @@ Making lemonaid!
 Jeff
 
 
-#### <time> Sunday, September 2, 2007 4:49 AMEDT
+#### <time> Sunday, September 2, 2007 4:49 AM </time>
 
 Nearly there...
 
@@ -1505,9 +1519,9 @@ Oh, good morning!
 Jeff
 
 
-#### <time> Saturday, September 1, 2007 4:41 PMEDT
+#### <time> Saturday, September 1, 2007 4:41 PM </time>
 
-***He moves!***
+*He moves!*
 
 Ian got off his IV pain meds today, and is in a mobile chair. His hand is still attached to a sling on the IV pole, and the IV is still in for antibiotics, but he's making progress in the right direction.
 
@@ -1522,7 +1536,7 @@ Eating continues, so we hope he bounces back well.
 Nanci
 
 
-#### <time> Saturday, September 1, 2007 7:54 AMEDT
+#### <time> Saturday, September 1, 2007 7:54 AM </time>
 
 *12 hour night*
 
@@ -1534,10 +1548,10 @@ Ian surely has worked through many lessons just in the last 5 months. I know we'
 
 Although Ian can have some visitors today, there is no guarantee he will be awake when anyone arrives. :-)
 
-***Zzzzzz.....***
+*Zzzzzz.....*
 
 
-#### <time> Friday, August 31, 2007 4:38 PMEDT
+#### <time> Friday, August 31, 2007 4:38 PM </time>
 
 ZZZZ continued
 
@@ -1550,9 +1564,9 @@ It is kind of boring, but in a great way. I have had lots of time for prayer and
 Jeff
 
 
-#### <time> Friday, August 31, 2007 2:07 PMEDT
+#### <time> Friday, August 31, 2007 2:07 PM </time>
 
-**Nap Time...zzzz....**
+*Nap Time...zzzz....*
 
 Ian and Jeff are at the hospital snoozing. They are in the zone where one gets sleep solely in increments of 20-45 minutes. Ian at least has morphine as his sleep aid. Jeff is dragging a bit. I will go in and sleep there tonight.
 
@@ -1565,7 +1579,7 @@ Will keep you all posted on his progress. Cleaning calls me. I'm waiting for Sea
 Nanci
 
 
-#### <time> Friday, August 31, 2007 5:51 AMEDT
+#### <time> Friday, August 31, 2007 5:51 AM </time>
 
 Surgery plus twelve
 
@@ -1582,9 +1596,9 @@ Now, the other question that is likely on people's minds is "Is this Ian's last 
 Jeff
 
 
-#### <time> Thursday, August 30, 2007 10:11 PMEDT
+#### <time> Thursday, August 30, 2007 10:11 PM </time>
 
-**Goodnight. Sleep Well.**
+*Goodnight. Sleep Well.*
 
 I understand from phone messages that the 4:55 posting (immediately after Ian's voyage to his "recovery room" and our talk with the surgeon) posted to the website, but did not send out automatic emails. My apologies to anyone awaiting the email notification....it must have been a glitch in the CaringBridge servers...we didn't do anything new and different.
 
@@ -1614,7 +1628,7 @@ Nanci and I are both doing well. She went home to work on somethings around the 
 Jeff
 
 
-#### <time> Thursday, August 30, 2007 4:55 PMEDT
+#### <time> Thursday, August 30, 2007 4:55 PM </time>
 
 This Little Piggie...
 
@@ -1631,7 +1645,7 @@ TTFN.
 Jeff
 
 
-#### <time> Thursday, August 30, 2007 11:59 AMEDT
+#### <time> Thursday, August 30, 2007 11:59 AM </time>
 
 Noon Update....
 
@@ -1642,7 +1656,7 @@ Things are on or ahead of schedule. Will let you all know when I know more.
 Jeff
 
 
-#### <time> Thursday, August 30, 2007 4:35 AMEDT
+#### <time> Thursday, August 30, 2007 4:35 AM </time>
 
 Drum roll, Please....
 
@@ -1657,7 +1671,7 @@ Thanks for all the prayers.
 Nanci
 
 
-#### <time> Monday, August 27, 2007 10:10 AMEDT
+#### <time> Monday, August 27, 2007 10:10 AM </time>
 
 Close to Home...
 
@@ -1672,7 +1686,7 @@ Thanks everyone for listening and keeping Ian in your prayers. They certainly he
 Jeff
 
 
-#### <time> Saturday, August 25, 2007 7:17 AMEDT
+#### <time> Saturday, August 25, 2007 7:17 AM </time>
 
 nearly ALL SYSTEMS GO!
 
@@ -1703,7 +1717,7 @@ Our plan is that Jeff will be with Ian at the Hospital round the clock through t
 Jedly
 
 
-#### <time> Friday, August 24, 2007 1:16 PMEDT
+#### <time> Friday, August 24, 2007 1:16 PM </time>
 
 Each day is a gift, don't waste it!
 
@@ -1724,7 +1738,7 @@ Yours,
 Nothing further to be added by Jeff at this time as I really don't have anything to say that can express my sadness for Tony and for his family.
 
 
-#### <time> Thursday, August 23, 2007 10:07 PMEDT
+#### <time> Thursday, August 23, 2007 10:07 PM </time>
 
 Prayer Requests, please, but not for Ian
 
@@ -1737,7 +1751,7 @@ Thank you.
 Jeff
 
 
-#### <time> Thursday, August 23, 2007 5:59 AMEDT
+#### <time> Thursday, August 23, 2007 5:59 AM </time>
 
 One Week to Go!
 
@@ -1750,14 +1764,14 @@ Thanks for thinking about him, and for keeping our entire family in your thought
 Jeff
 
 
-#### <time> Friday, August 10, 2007 6:00 PMEDT
+#### <time> Friday, August 10, 2007 6:00 PM </time>
 
 Happy 16th Birthday Ian!
 
 On another front, we just picked up Ian from the UC Technology camp that he was invited to attend. Ian was voted by his peers to be the man who best represents what the camp stands for. Way to go Ian!
 
 
-#### <time> Wednesday, August 8, 2007 6:42 AMEDT
+#### <time> Wednesday, August 8, 2007 6:42 AM </time>
 
 And how is this a good thing?
 
@@ -1788,7 +1802,7 @@ Have a great day!
 Jeff
 
 
-#### <time> Monday, August 6, 2007 3:15 PMEDT
+#### <time> Monday, August 6, 2007 3:15 PM </time>
 
 The Preparation Begins
 
@@ -1805,7 +1819,7 @@ I know that the entries have been spaced a good bit apart. I want to thank every
 Jeff
 
 
-#### <time> Tuesday, June 26, 2007 7:40 PMEDT
+#### <time> Tuesday, June 26, 2007 7:40 PM </time>
 
 The Waiting Game
 
@@ -1826,9 +1840,9 @@ To all of the readers who have lost interest, I am sorry for the delay. Ian is d
 Jeff
 
 
-#### <time> Friday, June 1, 2007 11:36 AMEDT
+#### <time> Friday, June 1, 2007 11:36 AM </time>
 
-**Question of the month...**
+*Question of the month...*
 
 Last month, the burning question was "Will Ian ever have good mobility in his fingers again?" The scar tissue and grafts on his palm and fingers was pretty tight after his flap was separated. Therapy has yielded good progress, but at a cost of lots of pain. Ian is now taking Lyrica; the same neuropathic pain med I was on last year. It is making therapy bearable. But we can't let up for even a moment. Therapy 3 times a day, every day...if we skip or are late for one session, everything tightens up and it's like going back 5 days!
 
@@ -1853,9 +1867,9 @@ So our June and July work will be to keep the hand limber, and await a reconstru
 Again, thanks for everyone's prayers.
 
 
-#### <time> Monday, May 14, 2007 2:47 PMEDT
+#### <time> Monday, May 14, 2007 2:47 PM </time>
 
-**For all it could've been and all it is**
+*For all it could've been and all it is*
 
 As Jeff has mentioned several times, this business of recovering from a major accident is a real balancing act. There is always an element of grief for what our bodies are not, and hopefully an element of gratitude for what normalcy remains. There is *so much* to be grateful for!
 
@@ -1885,7 +1899,7 @@ This time, I am asking any of you who read this, to say a prayer for Nanci and I
 Jeff
 
 
-#### <time> Monday, April 30, 2007 8:59 PMEDT
+#### <time> Monday, April 30, 2007 8:59 PM </time>
 
 The Really, Really Hard Part, Part 1
 
@@ -1900,7 +1914,7 @@ Now, here is the hard part. Let's say that you want what is the best for your so
 (continued in parts 2 and 3)
 
 
-#### <time> Monday, April 30, 2007 8:58 PMEDT
+#### <time> Monday, April 30, 2007 8:58 PM </time>
 
 The Really, Really Hard Part, Part 2
 
@@ -1921,7 +1935,7 @@ What is so very hard now is that, after two months, we still have MONTHS of unce
 
 #### <time> Monday, April 23, 2007 9:07 AM </time>
 
-***Next steps***
+*Next steps*
 
 Have gotten some feedback from the pictures, with more questions about how his "slug junior" large thumb will resolve to something more workable. 
 
@@ -1938,7 +1952,7 @@ Keep asking questions if you don't get it. It is amazing reconstruction, but not
 Nanci
 
 
-#### <time> Sunday, April 22, 2007 11:10 AMEDT
+#### <time> Sunday, April 22, 2007 11:10 AM </time>
 
 Clearing up Confusion
 
@@ -1953,7 +1967,7 @@ Right now, the rest of the family is at church. I woke up in a bit of a funk and
 Jeff
 
 
-#### <time> Thursday, April 19, 2007 12:47 PMEDT
+#### <time> Thursday, April 19, 2007 12:47 PM </time>
 
 Normal is good...
 
@@ -1966,7 +1980,7 @@ Have a great day...
 Nanci
 
 
-#### <time> Monday, April 16, 2007 8:55 AMEDT
+#### <time> Monday, April 16, 2007 8:55 AM </time>
 
 YES!
 
@@ -1983,7 +1997,7 @@ Ian has started some schoolwork at home, but it does not look like he will be ab
 Jeff 
 
 
-#### <time> Monday, April 16, 2007 7:38 AMEDT
+#### <time> Monday, April 16, 2007 7:38 AM </time>
 
 Lucky Number Eight?
 
@@ -1996,7 +2010,7 @@ More to follow...
 Jeff
 
 
-#### <time> Saturday, April 14, 2007 9:22 AMEDT
+#### <time> Saturday, April 14, 2007 9:22 AM </time>
 
 Thanks for your Patience...
 
@@ -2021,9 +2035,9 @@ Fondly,
 Jeff
 
 
-#### <time> Monday, April 9, 2007 11:54 AMEDT
+#### <time> Monday, April 9, 2007 11:54 AM </time>
 
-***Rounding Third and heading for home....***
+*Rounding Third and heading for home....*
 
 The groin flap procedure has one more week before his left hand is finally free!
 
@@ -2040,7 +2054,7 @@ Thanks again to all,
 Nanci
 
 
-#### <time> Wednesday, April 4, 2007 9:27 PMEDT
+#### <time> Wednesday, April 4, 2007 9:27 PM </time>
 
 *Routine*
 
@@ -2063,7 +2077,7 @@ Easter is just around the corner, and Ian hopes to attend church. Many good peop
 Ever grateful, Nanci
 
 
-#### <time> Tuesday, April 3, 2007 12:54 PMEDT
+#### <time> Tuesday, April 3, 2007 12:54 PM </time>
 
 *What can I say?*
 
@@ -2076,7 +2090,7 @@ Ian is doing remarkably well. His sense of humor about all of this comes and goe
 Love to all, Nanci
 
 
-#### <time> Monday, April 2, 2007 9:20 AMEDT
+#### <time> Monday, April 2, 2007 9:20 AM </time>
 
 Sixth surgery down; \__\_|\_ to go....
 
@@ -2116,7 +2130,7 @@ I went to school to get Ian's books, and we hope to get some assignments early n
 Nanci
 
 
-#### <time> Thursday, March 29, 2007 10:53 AMEDT
+#### <time> Thursday, March 29, 2007 10:53 AM </time>
 
 $candal?
 
@@ -2131,7 +2145,7 @@ The Better Business Bureau maintains a website [www.give.org][3] which provides 
 Jeff
 
 
-#### <time> Wednesday, March 28, 2007 7:29 PMEDT
+#### <time> Wednesday, March 28, 2007 7:29 PM </time>
 
 Just Hanging Out
 
@@ -2144,7 +2158,7 @@ Things are pretty boring, but boring at home beats busy at the hospital any day 
 Jeff
 
 
-#### <time> Monday, March 26, 2007 11:10 AMEDT
+#### <time> Monday, March 26, 2007 11:10 AM </time>
 
 Coming Home, Part Two!
 
@@ -2159,7 +2173,7 @@ Nanci and I had the chance to speak with Ian's doctor this morning. He has been 
 Jeff
 
 
-#### <time> Sunday, March 25, 2007 3:21 PMEDT
+#### <time> Sunday, March 25, 2007 3:21 PM </time>
 
 The Sucky Part
 
@@ -2182,7 +2196,7 @@ And I will say a prayer for continued strength since there is absolutely no way 
 Jeff
 
 
-#### <time> Saturday, March 24, 2007 8:41 PMEDT
+#### <time> Saturday, March 24, 2007 8:41 PM </time>
 
 The Others...
 
@@ -2209,7 +2223,7 @@ Good night.
 Jeff
 
 
-#### <time> Saturday, March 24, 2007 10:31 AMEDT
+#### <time> Saturday, March 24, 2007 10:31 AM </time>
 
 Happy Saturday.
 
@@ -2224,7 +2238,7 @@ I am going to return to Ian's room now to assist him getting back to bed. He has
 Jeff
 
 
-#### <time> Friday, March 23, 2007 6:29 AMEDT
+#### <time> Friday, March 23, 2007 6:29 AM </time>
 
 Two Down...(quick updates)
 
@@ -2239,7 +2253,7 @@ Gotta run so I can get a shower before work.
 Jeff
 
 
-#### <time> Thursday, March 22, 2007 4:20 PMEDT
+#### <time> Thursday, March 22, 2007 4:20 PM </time>
 
 The Five Fs
 
@@ -2268,7 +2282,7 @@ Blessings!
 Jeff
 
 
-#### <time> Thursday, March 22, 2007 6:05 AMEDT
+#### <time> Thursday, March 22, 2007 6:05 AM </time>
 
 One down, two to go.
 
@@ -2300,9 +2314,9 @@ Please pray for just this, that Ian's hand has blood flow from the hand to the t
 JD
 
 
-#### <time> Wednesday, March 21, 2007 8:11 AMEDT
+#### <time> Wednesday, March 21, 2007 8:11 AM </time>
 
-**Contrast**
+*Contrast*
 
 Just when I think I can't take it any more, all I have to do is visit my friends in the Acute Care unit to know I can hang on. I finally got to see the face of the sweetest little angel...Tammy, one of our out of state friends. She asked me to wash my hands and sit by her side for a moment. She asked me to rub one of her arms, which are both covered by ace bandages so that they are rigid and straight. Then, when I left, she shook my hand. The grace of that little lady just about brought me to a puddle right there.
 
@@ -2311,7 +2325,7 @@ Then I went upstairs to be with Ian for the evening. We had mostly a light-heart
 He went back to surgery at exactly 7:30; Jeff or I will post an update when we have the time, likely later this evening. I am tired and want to stay with him and Jeff has an appointment this morning and should be here to relieve me later this afternoon.
 
 
-#### <time> Tuesday, March 20, 2007 5:12 PMEDT
+#### <time> Tuesday, March 20, 2007 5:12 PM </time>
 
 Curveball
 
@@ -2332,7 +2346,7 @@ As usual, in the infamous words of Bartles and James, Thank you for your support
 Jeff
 
 
-#### <time> Tuesday, March 20, 2007 7:30 AMEDT
+#### <time> Tuesday, March 20, 2007 7:30 AM </time>
 
 Someday Isle
 
@@ -2351,7 +2365,7 @@ Thanks for your continued prayers and support.
 Jeff
 
 
-#### <time> Monday, March 19, 2007 3:13 PMEDT
+#### <time> Monday, March 19, 2007 3:13 PM </time>
 
 Slow and Steady
 
@@ -2372,7 +2386,7 @@ TTFN,
 Jeff
 
 
-#### <time> Saturday, March 17, 2007 9:25 PMEDT
+#### <time> Saturday, March 17, 2007 9:25 PM </time>
 
 It depends on who you ask...
 
@@ -2397,12 +2411,12 @@ Pleasant dreams and a good night to everyone!
 Jeff
 
 
-#### <time> Saturday, March 17, 2007 1:22 PMEDT
+#### <time> Saturday, March 17, 2007 1:22 PM </time>
 
 Ian's Home! 
 
 
-#### <time> Friday, March 16, 2007 6:53 PMEDT
+#### <time> Friday, March 16, 2007 6:53 PM </time>
 
 Healing at Home...
 
@@ -2413,7 +2427,7 @@ Visitors are welcome of course...please feel free to email Nanci at [we_teachem@
 Jeff
 
 
-#### <time> Friday, March 16, 2007 10:47 AMEDT
+#### <time> Friday, March 16, 2007 10:47 AM </time>
 
 Quality, not Quantity
 
@@ -2434,7 +2448,7 @@ Until next time,
 Jeff
 
 
-#### <time> Thursday, March 15, 2007 8:58 PMEDT
+#### <time> Thursday, March 15, 2007 8:58 PM </time>
 
 The Hardest Part for Me
 
@@ -2451,7 +2465,7 @@ Thank you for caring.
 Jeff
 
 
-#### <time> Thursday, March 15, 2007 7:29 PMEDT
+#### <time> Thursday, March 15, 2007 7:29 PM </time>
 
 Hey all...  
 
@@ -2459,22 +2473,20 @@ Hey all...
 
  Important pieces of information:  
 
- 1. Drains come out tomorrow.  
+* Drains come out tomorrow.  
+* Tomorrow my donor site for the grafts is scrubbed, and thankfully I get ketamine(sp), a sedative.  
+* I get to return home Saturday, facilitating many visits over spring break.  
 
- 2. Tomorrow my donor site for the grafts is scrubbed, and thankfully I get ketamine(sp), a sedative.  
+...and...  
 
- 3. I get to return home Saturday, facilitating many visits over spring break.  
-
- ...and...  
-
- 4. Today was by far my most active day and I wore myself out again and again.  
+* Today was by far my most active day and I wore myself out again and again.  
 
  I miss you all, and sorry for the short entry,  
 
  Ian-- 
 
 
-#### <time> Thursday, March 15, 2007 8:13 AMEDT
+#### <time> Thursday, March 15, 2007 8:13 AM </time>
 
 Two Weeks...
 
@@ -2489,7 +2501,7 @@ Have a great day!
 Jeff
 
 
-#### <time> Wednesday, March 14, 2007 8:14 PMEDT
+#### <time> Wednesday, March 14, 2007 8:14 PM </time>
 
 Mostly more of the same...
 
@@ -2504,7 +2516,7 @@ Hmm, our house will be like visiting the zoo and a hospital all at the same time
 Jeff
 
 
-#### <time> Wednesday, March 14, 2007 12:35 PMEDT
+#### <time> Wednesday, March 14, 2007 12:35 PM </time>
 
 Coming Home Saturday?
 
@@ -2538,7 +2550,7 @@ Thanks for listening. And thanks for your continued prayers and all other kinds 
 Jeff
 
 
-#### <time> Monday, March 12, 2007 10:48 PMEDT
+#### <time> Monday, March 12, 2007 10:48 PM </time>
 
 Ian was up and alert most of the day. Grandma and Grandpa were here until late afternoon, when Dad came by to visit after work. Mom ran around to do errands and keep the home fires burning.
 
@@ -2551,7 +2563,7 @@ My heart continues to break for other parents here at the hospital. Does anyone 
 Please send some prayers her way. Love and thanks to all...Nanci
 
 
-#### <time> Monday, March 12, 2007 4:30 PMEDT
+#### <time> Monday, March 12, 2007 4:30 PM </time>
 
 Another good night's sleep. Ian had many visitors yesterday, including some Latin School friends, CHCA friends, and Mr. Walker, CHCA Assistant Principal. This morning, I received a phone call from the orthodontist's office, asking what they can do to help. I continue to be overwhelmed by the support we have received from friends and family! 
 
@@ -2566,7 +2578,7 @@ Thanks to all of you for your continued notes of encouragement. It is impossible
 Nanci
 
 
-#### <time> Sunday, March 11, 2007 11:06 AMEDT
+#### <time> Sunday, March 11, 2007 11:06 AM </time>
 
 Ian had a good night's sleep. He had some PopTarts and a smoothie. The other good news is that the IV is gone! Now comes the harder part of getting up and around. Not looking forward to that, but it's the plan for the day.
 
@@ -2577,7 +2589,7 @@ We continue to pray for the others here. I've got to run now, but will post this
 
 #### <time> Saturday, March 10, 2007 9:02 PM </time>
 
-**Shift Change**
+*Shift Change*
 
 Ian's Dad is now at the Miami U swim meet, and his Mom is now a guest here at Shriner's for the night.
 
@@ -2883,11 +2895,9 @@ Rumors and misinformation...
 
 A couple of Ian's friends from school stopped by to cheer him up today. I was fascinated with a few of the stories that they shared about the "information" that went around school the first two days about Ian's injuries.
 
-1) He was struck by lightening. Close, but not entirely accurate. It does appear that either the surge protector for the plasma cutter was on when it should have been off, or it arched and made contact with the wrong material, specifically him instead of his poetry book cover.
-
-2) Ian was burned by a homemade flamethrower made out of microwave parts. Again, partially true. Ian has not yet made a flamethrower. Even though his father (me) has always had pyro tendencies, since it takes one to know one, I have done my best to limit any creations that make open flames. The transformer for the plasma cutter was made from an old microwave transformer.
-
-3) Ian was shot. Hmm. No guns here, just electricity. In many ways, it could have been less painful to have been shot, depending on *where *he was shot. He has had several SHOTS of morphine since the injury, and he was shocked, but no guns were involved.
+* He was struck by lightening. Close, but not entirely accurate. It does appear that either the surge protector for the plasma cutter was on when it should have been off, or it arched and made contact with the wrong material, specifically him instead of his poetry book cover.
+* Ian was burned by a homemade flamethrower made out of microwave parts. Again, partially true. Ian has not yet made a flamethrower. Even though his father (me) has always had pyro tendencies, since it takes one to know one, I have done my best to limit any creations that make open flames. The transformer for the plasma cutter was made from an old microwave transformer.
+* Ian was shot. Hmm. No guns here, just electricity. In many ways, it could have been less painful to have been shot, depending on *where *he was shot. He has had several SHOTS of morphine since the injury, and he was shocked, but no guns were involved.
 
 Earlier this afternoon, Ian gave me a bit of a lesson on electricity. I thought I would pass it along so that you may have a better understanding of what exactly was he doing and what might have happened. For all you science gurus out there, I have put what Ian told me in my own words so if I am wrong in my description, it is because of my errors in trying to explain it.
 
@@ -3011,7 +3021,7 @@ Ian's favorite drink is BAWLS, which comes in a blue bottle. It is a favorite dr
 
 Speaking of which, Ian is anxious to get his PC back, even if he has to type one handed. He won't have a net connection in his room because of the electronics everywhere (think airplane #######) but within a week or two, we can likely figure out some way for him to get connected back to the wired world.
 
-The next few days are likely to be pretty boring for visitors unless you like to watch Ian sleep. He is still pretty heavily medicated. If you think that you might want to visit Ian this weekend, how about Sunday after lunch? If this does not fit in your schedule, please come if and when you are able, but also please consider this. Ian will be here for a while. I am sure that he will get bored pretty quickly and most likely will welcome visitors more readily in a few days. As Mike Meyers says "***Thank you very much; I'm here till Thursday. Try the veal***" Well, Ian will be here at least thru Thursday, a couple of weeks from now, and they don't serve veal here, but other than that...
+The next few days are likely to be pretty boring for visitors unless you like to watch Ian sleep. He is still pretty heavily medicated. If you think that you might want to visit Ian this weekend, how about Sunday after lunch? If this does not fit in your schedule, please come if and when you are able, but also please consider this. Ian will be here for a while. I am sure that he will get bored pretty quickly and most likely will welcome visitors more readily in a few days. As Mike Meyers says "*Thank you very much; I'm here till Thursday. Try the veal*" Well, Ian will be here at least thru Thursday, a couple of weeks from now, and they don't serve veal here, but other than that...
 
 Thank you everyone for the prayers. Ian's thumb is not out of the woods yet as the electricity did a number on it. The surgeon and hand specialist hope that the blood flow continues so, if you would ask God for Ian's body to continue sending oxygen carring red blood to his thumb, and then away again (still a problem) back to his heart, I would personally appreciate it. As any parent knows, I would trade places with Ian in a second.
 
