@@ -10,25 +10,25 @@ It's worth noting that the diet syrups - diet coke - are all small. The artifici
 
 ### It's all Chemicals
 
-How much of an overlap is there between Dr. Pepper's 23 flavors and 7Up's 7 flavors? 
-We'll never know, as the details of the compounds used are trade secret.
+Q: How much of an overlap is there between Dr. Pepper's 23 flavors and 7Up's 7 flavors? 
 
-How many different types of sodas do you think you could make out of Dr. Pepper's 23 flavors? 
-Probably quite a few.
+A: We'll never know, as the details of the compounds used are trade secret.
 
-Instead of having macroscale cartridges for each brand, break everything down into component flavoring compounds. 
-Leverage the discrete fluid handling technology developed for [ChemWhacker] to facilitate the rapid mixing of different flavoring compounds and colors. 
-Provide a variety of possible sodas from the same base chemicals. 
-The sugarwater business is dominated by 600lb gorillas. 
-It's a lucrative market. 
-There's potential here...
 
-#### Don't [not?] be Evil
+Q: How many different types of sodas do you think you could make out of Dr. Pepper's 23 flavors? 
+
+A: Probably quite a few.
+
+### What might something different look like?
+
+* Instead of having macroscale cartridges for each brand, break everything down into component flavoring compounds. 
+* Instead of using expensive microdosing pumps, use solid-state, no-moving-parts EWoD technology to ferry minute quantities of different flavorings to a carbonation chamber.
+* Provide a variety of possible sodas from the same base chemicals. 
+
+### How would you sell this?
 
 * go online and download a new soda
 * vote on your favorite variety of soda
 * "flavor of the month" club
 * printer cartridge pricing - give away the dispensers, charge $$ for the flavor cartridges
-* tweak the ratio of flavoring components of your favorite soda, personalizing it a'la [the long tail](http://www.longtail.com/about.html)
-* killer market access - run trials remotely, pay and/or get paid for people to participate in flavor research
-* build "an app store for sodas" 
+* build "an app store for sodas" allowing fine-pitched manipulation of prices 
