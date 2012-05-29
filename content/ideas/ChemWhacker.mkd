@@ -6,12 +6,13 @@ In this document, I purpose ChemWhacker, a possible solution implementing Electr
 
 ### How
 
-[Electrowetting](http://doc.utwente.nl/54091/1/electrowetting.pdf)-on-dielectric, or EWoD for short, is a novel branch of microfludics that, due to the discrete nature of the droplets in manipulation, lends itself readily towards integration with digital electronics and control mechanisms. 
+[Electrowetting](http://doc.utwente.nl/54091/1/electrowetting.pdf)-on-dielectric, or EWoD for short, is a novel branch of microfludics that, due to the discrete nature of the droplets manipulated, readily lends itself to integration with digital electronics.
+Additionally, discretization alleviates many of the issues associated with traditional continuous-flow microfluidics, especially with regards to volumetric control and reaction space cleanliness.
 By utilizing varying electrical voltages to modify the surface-fluid interactions in a fluid matrix, nano-to-microliter scale polar liquids can be moved around a two dimensional substrate. 
-Typical implementations of EWD technology make use of amorphous fluoropolymers vapor-deposited on etched metal substrates. 
-The processes and products associated with printed circuit board (PCB) manufacturing lend themselves towards [mis]application in an EWD situation. 
-PCBs offer an electrically conductive, chemically resistant, high-precision substrate for an EWD matrix. 
-[Parylene](http://www.nbtc.cornell.edu/facilities/downloads/Parylene%20Information%20Sheets.pdf), a polymer commonly used for PCB conformal coatings, [has been proven](http://secs.ceas.uc.edu/devices/Downloads/Documents/Publications/Reliable%20and%20low-voltage%20electrowetting%20on%20thin%20Parylene%20films.pdf) an exceptional nonpolar dialectric for EWD grids.
+Typical implementations of EWoD technology make use of amorphous fluoropolymers vapor-deposited on etched metal substrates. 
+The processes and products associated with printed circuit board (PCB) manufacturing lend themselves towards [mis]application in an EWoD situation. 
+PCBs offer an electrically conductive, chemically resistant, high-precision substrate for an EWoD matrix. 
+[Parylene](http://www.nbtc.cornell.edu/facilities/downloads/Parylene%20Information%20Sheets.pdf), a polymer commonly used for PCB conformal coatings, [has been proven](http://secs.ceas.uc.edu/devices/Downloads/Documents/Publications/Reliable%20and%20low-voltage%20electrowetting%20on%20thin%20Parylene%20films.pdf) an exceptional nonpolar dialectric for EWoD grids.
 
 ### "Turning Complete" 
 
@@ -21,14 +22,13 @@ The rationale for this is twofold.
 
 * Many reactions have unintended side products and [isomers](http://upload.wikimedia.org/wikipedia/commons/7/7f/Isomerism.png). [Most](http://en.wikipedia.org/wiki/Citalopram#Stereochemistry) [of](http://www.bluelight.ru/vb/archive/index.php/t-250401.html) [the time] this is a nonissue, with a [few](http://en.wikipedia.org/wiki/Thalidomide#Teratogenic_mechanism) [notable] [exceptions].
 
-* Time is money. Expecting a lab technician to produce the needed reagents on-site is like expecting a computer programmer to write their own IDE.
+* Time is money. Expecting a lab technician to produce the needed reagents on-site is like expecting a computer programmer to write their own libraries.
 
 The first problem is increasingly adressable [citationNeeded] through innovative catalysts, advances in physical chemistry, and even novel applications of synthetic biology. 
 The second problem is the quintessential problem statement for computation and automation. 
 
-I purpose EWD as a mechanism for so-called "turning complete" mechanisms, a system capable of turning a handful of basic feedstocks into veritably any organic compound through the sequential application of a finite number of transformations. 
-The discrete aspect of EWD manipulation provides advantages over traditional continuous flow microfluidics with regards to cleanliness, volumetric control, and digital interface/manipulation. 
-The addition of thermoelectric temperature control and microscale electrochemical oxidation and reduction reactors would provide a basic electrostatic fluid manipulation device with the ability to produce an incredible range of chemicals, one step at a time.  
+I purpose EWoD as a mechanism for so-called "turning complete" mechanisms, a system capable of turning a handful of basic feedstocks into veritably any organic compound through the sequential application of a finite number of transformations. 
+The addition of consumable reagents, enzymes or other specialized room-temperature catalysts, and microscale electrochemical oxidation and reduction reactors would provide a basic array the ability to produce an incredible range of chemicals, one step at a time.  
 
 ["Electrowetting on Dielectrics (EWOD): Reducing Voltage Requirements for Microfluidics"](http://www.ag.arizona.edu/research/biosensors/acs01b.pdf)
 
