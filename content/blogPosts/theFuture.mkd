@@ -10,4 +10,8 @@ It's not about the technology as much as it's about making that technology - the
 
 ...individuals are more efficient at allocating resources to meet their needs than any heirarchical structure...
 
+"The future is already here — it's just not very evenly distributed." --Gibson
+
+-> what if distributing the future was as easy as distributing software?
+
 "wishing for more wishes" is now okay.
