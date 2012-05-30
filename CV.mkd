@@ -1,4 +1,3 @@
-<link href="static/markdown.css" rel="stylesheet">
 <title> Ian's CV </title>
 
 ## Ian Daniher 
