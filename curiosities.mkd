@@ -8,7 +8,7 @@ First and formost, this is a list of concepts about which I am curious. This imp
 
 * variable abstraction environments
  * facilitates the manipulation of information at varying levels of abstraction
- * possible avenues include... [Kill Math](http://worrydream.com/KillMath/) / [Ladder of Abstraction](worrydream.com/#!/LadderOfAbstraction), [logicwhacker][logicwhacker], toolpath-aware parameteric CAD software, abstore, zoomable user interfaces for content exploration
+ * possible avenues include... [Kill Math](http://worrydream.com/KillMath/), [Ladder of Abstraction](worrydream.com/#!/LadderOfAbstraction), [logicwhacker][logicwhacker], toolpath-aware parameteric CAD software, abstore, zoomable user interfaces for content exploration
 
 * bit/atom bridges
  * enables the interplay of digital logic / computational systems and physical materials 
@@ -17,5 +17,9 @@ First and formost, this is a list of concepts about which I am curious. This imp
 * compututer architectures, especially novel / [non-neumann](nonneumann.tumblr.com)
  * interesting implementations can be found in...  [GreenArrays](http://www.greenarraychips.com/), [OpenRISC](http://openrisc.net/or1200-spec.html#_introduction), AMD's Fusion / Heterogeneous System Architecture
 
+* electrochemistry and microscale chemical production
+ * especially as it pertains to [chemwhacker][chemwhacker]
+
 [cee]: nonolithlabs.com/cee
 [logicwhacker]: tbd
+[chemwhacker]: tbd
