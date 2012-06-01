@@ -33,3 +33,7 @@ The addition of consumable reagents, enzymes or other specialized room-temperatu
 ["Electrowetting on Dielectrics (EWOD): Reducing Voltage Requirements for Microfluidics"](http://www.ag.arizona.edu/research/biosensors/acs01b.pdf)
 
 ["Chemical and Biological Applications of Digital Microfluidic Devices"](http://microfluidics.ee.duke.edu/documents/ieee07.pdf)
+
+["Digital Microfluidic Biochips: A Vision for Functional Diversity and More than Moore"](http://people.ee.duke.edu/~krish/Chakrabarty_VLSI_2010.pdf)
+
+["Electrowetting-Based On-Chip Sample Processing for Integrated Microfluidics"](http://microfluidics.ee.duke.edu//documents/PID245178.pdf)
