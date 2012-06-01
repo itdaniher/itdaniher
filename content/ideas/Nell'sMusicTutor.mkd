@@ -8,5 +8,13 @@ Art education is fundamentally an interactive and tangible exchange, not somethi
 NMT, or Nell's Music Tutor, is an answer to these problems. 
 It's the missing link, connecting the everpresent platform for ephemerealizion, the smartphone, to the world of the arts. 
 By leveraging techniques borrowed from digital signal processing and modern game design, NMT can provide a level of responsiveness and personalization unachievable before. 
+
 The real time annotations to sheet music is just the tip of the functionality. 
+
 While responsive indicatations of deviations in pitch and timing, NMT gives students real metrics and performance analytics to track and encourage  
+
+
+-----
+
+Check out [Euphony](https://github.com/qiao/euphony), a JS&WebGL based MIDI player and visualizer. 
+Take note that MIDI contains tone and timing information.
