@@ -1,0 +1,32 @@
+One of the things I've recently been working on is the [PyChEBI](http://github.com/itdaniher/PyChEBI), a database of chemicals. 
+
+Part of the challenge of dealing with the ChEBI database was the comparitively "unstructured" MDL Molfile format, a quintessential part of the SDF file format. 
+
+An entry looks something like this:
+
+> 
+>  Marvin  06190621002D          
+>
+>  5  4  0  0  0  0            999 V2000
+>    0.0000    0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+>    0.0000   -0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+>   -0.8250    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+>    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+>    0.8250    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+>  4  1  1  0  0  0  0
+>  4  2  1  0  0  0  0
+>  4  3  1  0  0  0  0
+>  4  5  1  0  0  0  0
+> M  END
+
+The issue with this format is that there is *no* context. 
+
+All meaning is added by your parser, rather than your parser parsing for meaning.
+
+In CSV, you have a header row.
+
+In JSON, you have a key for every value.
+
+In XML, you have attributes and tags.
+
+### This is the 21st century, why is anyone still exchanging data using semantically dumb textfiles?
