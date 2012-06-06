@@ -1,0 +1,8 @@
+### Ladder of Abstraction of Molecular Representations
+
+* chemical formula
+* structural formula
+* VSEPR theory
+* lewis octet / dot structure - 2D
+* lewis structures - 3D
+* molecular orbitals
