@@ -7,6 +7,10 @@
 
 ## Things I've Made <a id="Projects"/>
 
+#### [ASMLadder](http://github.com/itdaniher/asmladder), a variable abstraction code viewer for embedded development. <time> Summer 2012 </time>
+
+* Demo hosted [here](http://itdaniher.github.com/asmladder/main.html).
+
 #### The CEE by [Nonolith Labs][Nonolith] <time> Spring 2011 - Present </time>
 
 * [The CEE][CEE] is a USB source-measure unit designed to be used as "cavalier instrumentation" - a general purpose tool for the curious to interact with the world around them.
