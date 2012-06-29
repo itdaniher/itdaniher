@@ -1,0 +1,71 @@
+When I first got my feet wet with software, I was promised something.
+This was the early 'naughts, and the buzzwords of the day were all XML-related - things like "microformats" and "xslt" and "xhtml."
+
+The dream of the day was beautiful.
+
+
+_XML_, as a structured, open data format supporting tags, attributes, and values, was going to store all of our data in elegant, human-readable heirarchies.
+
+_XHTML_, as a rigorous alternative to the soupy mess of HTML4, was going to turn all of our websites into semantically rich, machine-readable works of art, free from such ugliness as \<br\> and \<p\> tags.
+
+_XSLT_, "Extensible Stylesheet Language Transformations," was going to let these two formats play nicely together, seamlessly tranforming XML datastores into human-readable XHTML documents.
+
+_Microformats_ were all the rage, simple "human first" formats built off of XML's syntax, that would free us from transfering information as one of either semantically dumb HTML documents or propiretary binary blobs.
+
+
+Like all good things, this too passed from the public eye.
+XML was clunky.
+XHTML was clunky.
+XSLT was clunky.
+Microformats were clunky.
+The vision of the semantic web was lost - it was too difficult, and the sex appeal vanished overnight.
+
+-----
+
+All is not lost.
+
+The tools to make this happen have once again reachedn buzzword compliance.
+HTML5, and all the javascript magic that entails, is the latest and greatest.
+JSON is everywhere, the lingua franca of machines and data.
+HTML is still alive, and we even learned a bit from HTML4 - it's not uncommon to see orthoganal (x)HTML documents proudly featuring "\<br /\>" tags instead of the ugly soup of unmatched tags we once had.
+
+
+Here's what this dream might look like, using today's tech.
+
+----
+
+#### bytes are cheap, context is priceless
+
+document exchange should be decompileable.
+every time you execute an irreversible tranformation, context is lost.
+
+
+any amount of styling, templating, or rendering that happens prior to a user requesting a representation of information reduces the ability of that user to manipulate and control their experience.
+
+reversibly inlining all resources and all scripts, as far down the rabbit hole as possible offers an unparalleled user experience (atomic, easily distributable) and a superb roadmap for empowering the end user.
+
+-----
+
+### JSON
+
+* loosely structured - heirarchical, but k/v pairs are unordered
+* scales - mongodb and bson make juggling mammoth json-style datasets technologically trivial
+* supports a rich set of basic datatypes
+* fully, and beautifully documented at [json.org](http://json.org)
+
+### (x)HTML
+
+* strictly structured for human consumption
+* high overhead, but low visual clutter
+* easily manipulateable
+* limited types - tags, attrs, values
+* inconsistent semantics - \<span\> tags vs attributes
+* offers a minimal viable representation - plain html is ugly, but readable
+* formatting and layout tend to be culture-specific
+
+### CSS
+
+* pure styling
+* comprehensive selectors for specifying visual aspects of xHTML objects
+* rendered into a bitmap for display
+* font and color preferences tend to be user-specific
