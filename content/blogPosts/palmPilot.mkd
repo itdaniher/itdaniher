@@ -17,7 +17,7 @@ Palm III
  * hack games
 * grokable
  * vague idea of what all the chips did, what a digitizer was, etc
-* ["zen of palm"]
+* ["zen of palm"](www.accessdevnet.com/docs/zenofpalm.pdf)
 * IR
  * OmniRemote
  * IRMon
