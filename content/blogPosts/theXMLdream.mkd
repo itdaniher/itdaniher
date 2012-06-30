@@ -6,7 +6,7 @@ The dream of the day was beautiful.
 
 _XML_, as a structured, open data format supporting tags, attributes, and values, was going to store all of our data in elegant, human-readable heirarchies.
 
-_XHTML_, as a rigorous alternative to the soupy mess of HTML4, was going to turn all of our websites into semantically rich, machine-readable works of art, free from such ugliness as \<br\> and \<p\> tags.
+_XHTML_, as a rigorous alternative to the soupy mess of HTML4, was going to turn all of our websites into semantically rich, machine-readable works of art, free from such ugliness as `<br>` and `<p>` tags.
 
 _XSLT_, "Extensible Stylesheet Language Transformations," was going to let these two formats play nicely together, seamlessly tranforming XML datastores into human-readable XHTML documents.
 
@@ -27,7 +27,7 @@ All is not lost.
 The tools to make this happen have once again reachedn buzzword compliance.
 HTML5, and all the javascript magic that entails, is the latest and greatest.
 JSON is everywhere, the lingua franca of machines and data.
-HTML is still alive, and we even learned a bit from HTML4 - it's not uncommon to see orthoganal (x)HTML documents proudly featuring "\<br /\>" tags instead of the ugly soup of unmatched tags we once had.
+HTML is still alive, and we even learned a bit from HTML4 - it's not uncommon to see orthoganal (x)HTML documents proudly featuring `<br />` tags instead of the ugly soup of unmatched tags we once had.
 
 
 Here's what this dream might look like, using today's tech.
@@ -59,7 +59,7 @@ reversibly inlining all resources and all scripts, as far down the rabbit hole a
 * high overhead, but low visual clutter
 * easily manipulateable
 * limited types - tags, attrs, values
-* inconsistent semantics - \<span\> tags vs attributes
+* inconsistent semantics - `<span>` tags vs attributes
 * offers a minimal viable representation - plain html is ugly, but readable
 * formatting and layout tend to be culture-specific
 
