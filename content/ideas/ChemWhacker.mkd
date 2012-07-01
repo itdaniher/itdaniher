@@ -27,7 +27,7 @@ The rationale for this is twofold.
 The first problem is increasingly adressable [citationNeeded] through innovative catalysts, advances in physical chemistry, and even novel applications of synthetic biology. 
 The second problem is the quintessential problem statement for computation and automation. 
 
-I propose EWoD as a mechanism for so-called "turning complete" mechanisms, a system capable of turning a handful of basic feedstocks into veritably any organic compound through the sequential application of a finite number of transformations. 
+I propose EWoD as means to implement a "turning complete" mechanism, a system capable of turning a handful of basic feedstocks into veritably any organic compound through the sequential application of a finite number of transformations. 
 The addition of consumable reagents, enzymes or other specialized room-temperature catalysts, and microscale electrochemical oxidation and reduction reactors would provide a basic array the ability to produce an incredible range of chemicals, one step at a time.  
 
 ### Further Reading
