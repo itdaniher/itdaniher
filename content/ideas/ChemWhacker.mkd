@@ -30,3 +30,14 @@ The second problem is the quintessential problem statement for computation and a
 I propose EWoD as a mechanism for so-called "turning complete" mechanisms, a system capable of turning a handful of basic feedstocks into veritably any organic compound through the sequential application of a finite number of transformations. 
 The addition of consumable reagents, enzymes or other specialized room-temperature catalysts, and microscale electrochemical oxidation and reduction reactors would provide a basic array the ability to produce an incredible range of chemicals, one step at a time.  
 
+### Further Reading
+
+["Electrowetting on Dielectrics (EWOD): Reducing Voltage Requirements for Microfluidics"](http://www.ag.arizona.edu/research/biosensors/acs01b.pdf)
+
+["Chemical and Biological Applications of Digital Microfluidic Devices"](http://microfluidics.ee.duke.edu/documents/ieee07.pdf)
+
+["Digital Microfluidic Biochips: A Vision for Functional Diversity and More than Moore"](http://people.ee.duke.edu/~krish/Chakrabarty_VLSI_2010.pdf)
+
+["Electrowetting-Based On-Chip Sample Processing for Integrated Microfluidics"](http://microfluidics.ee.duke.edu//documents/PID245178.pdf)
+
+["Coplanar digital microfluidics using standard printed circuit board processes"](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.161.5913)
