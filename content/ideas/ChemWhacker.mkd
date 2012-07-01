@@ -1,8 +1,8 @@
 ### What
 
-Manipulating small amounts of liquid in a massively parallel manner is usually relegated to the domain of multi-million-dollar robotic installations or teams of underpaid, malnourished undergraduate students. 
+Manipulating small amounts of liquid in a massively parallel manner is usually relegated to the domain of multi-million-dollar robotic installations or teams of underpaid, malnourished graduate students. 
 Neither of these approaches is particularly well suited towards benchtop scale research and production. 
-In this document, I purpose ChemWhacker, a possible solution implementing Electrowetting-on-Dielectric technology using COTS technology and manufacturing techniques. 
+In this document, I propose ChemWhacker, a possible solution implementing Electrowetting-on-Dielectric technology using COTS technology and manufacturing techniques. 
 
 ### How
 
@@ -20,20 +20,13 @@ Industrial scale chemistry relies on an impossibly complex web of interdependent
 Lab chemistry relies on a well stocked supply cabinet with hundreds of nearly identical brown bottles and a handful of reactions operating at approximately standard temperature and pressure. 
 The rationale for this is twofold. 
 
-* Many reactions have unintended side products and [isomers](http://upload.wikimedia.org/wikipedia/commons/7/7f/Isomerism.png). [Most](http://en.wikipedia.org/wiki/Citalopram#Stereochemistry) [of](http://www.bluelight.ru/vb/archive/index.php/t-250401.html) [the time] this is a nonissue, with a [few](http://en.wikipedia.org/wiki/Thalidomide#Teratogenic_mechanism) [notable] [exceptions].
+* Many reactions have unintended side products and [isomers](http://upload.wikimedia.org/wikipedia/commons/7/7f/Isomerism.png). [Most](http://en.wikipedia.org/wiki/Citalopram#Stereochemistry) [of](http://www.bluelight.ru/vb/archive/index.php/t-250401.html) the time this is a nonissue, with a [few](http://en.wikipedia.org/wiki/Thalidomide#Teratogenic_mechanism) notable exceptions.
 
 * Time is money. Expecting a lab technician to produce the needed reagents on-site is like expecting a computer programmer to write their own libraries.
 
 The first problem is increasingly adressable [citationNeeded] through innovative catalysts, advances in physical chemistry, and even novel applications of synthetic biology. 
 The second problem is the quintessential problem statement for computation and automation. 
 
-I purpose EWoD as a mechanism for so-called "turning complete" mechanisms, a system capable of turning a handful of basic feedstocks into veritably any organic compound through the sequential application of a finite number of transformations. 
+I propose EWoD as a mechanism for so-called "turning complete" mechanisms, a system capable of turning a handful of basic feedstocks into veritably any organic compound through the sequential application of a finite number of transformations. 
 The addition of consumable reagents, enzymes or other specialized room-temperature catalysts, and microscale electrochemical oxidation and reduction reactors would provide a basic array the ability to produce an incredible range of chemicals, one step at a time.  
 
-["Electrowetting on Dielectrics (EWOD): Reducing Voltage Requirements for Microfluidics"](http://www.ag.arizona.edu/research/biosensors/acs01b.pdf)
-
-["Chemical and Biological Applications of Digital Microfluidic Devices"](http://microfluidics.ee.duke.edu/documents/ieee07.pdf)
-
-["Digital Microfluidic Biochips: A Vision for Functional Diversity and More than Moore"](http://people.ee.duke.edu/~krish/Chakrabarty_VLSI_2010.pdf)
-
-["Electrowetting-Based On-Chip Sample Processing for Integrated Microfluidics"](http://microfluidics.ee.duke.edu//documents/PID245178.pdf)
