@@ -10,14 +10,11 @@ _XHTML_, as a rigorous alternative to the soupy mess of HTML4, was going to turn
 
 _XSLT_, "Extensible Stylesheet Language Transformations," was going to let these two formats play nicely together, seamlessly tranforming XML datastores into human-readable XHTML documents.
 
-_Microformats_ were all the rage, simple "human first" formats built off of XML's syntax, that would free us from transfering information as one of either semantically dumb HTML documents or propiretary binary blobs.
-
 
 Like all good things, this too passed from the public eye.
 XML was clunky.
 XHTML was clunky.
 XSLT was clunky.
-Microformats were clunky.
 The vision of the semantic web was lost - it was too difficult, and the sex appeal vanished overnight.
 
 -----
@@ -69,3 +66,10 @@ reversibly inlining all resources and all scripts, as far down the rabbit hole a
 * comprehensive selectors for specifying visual aspects of xHTML objects
 * rendered into a bitmap for display
 * font and color preferences tend to be user-specific
+
+-----
+
+#### Honorable Mentions
+
+* [Microdata](http://www.webmonkey.com/2010/09/microdata-html5s-best-kept-secret/)
+* [Microformats](https://developer.mozilla.org/en/Using_microformats)
