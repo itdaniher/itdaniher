@@ -1,0 +1,6 @@
+### Four Questions.
+
+* How do you develop reconfigurable peripherals that let computers sense, control and communicate with external hardware in application-independent ways?
+* What abstractions and interfaces make the capabilities of such flexible devices usable and transparent?
+* How do we give reconfigurable tools the elegance of purpose-built tools without compromising their broad applicability?
+* How do we market something that can do anything, both for existing applications and the new applications these products enable?
