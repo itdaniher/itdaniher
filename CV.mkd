@@ -1,11 +1,16 @@
 <title> Ian's CV </title>
 
-## Ian Daniher 
+### Ian Daniher 
 
 [@itdaniher](http://twitter.com/itdaniher) | explodingmind@gmail.com | 513-327-8483
 <br />
 
-## Things I've Made <a id="Projects"/>
+### Things I've Made <a id="Projects"/>
+
+#### [TakkTile](http://biorobotics.harvard.edu/takktile/) <time> Spring and Summer 2012 </time>
+
+* Worked as ECE lead on the TakkTile project, a collaboration between the Harvard BioRobotics lab and Nonolith Labs. 
+* Developed firmware, software, and electrical design for a tactile localization array offering high sensitivity and high sample rate.
 
 #### [ASMLadder](http://github.com/itdaniher/asmladder), a variable abstraction code viewer for embedded development. <time> Summer 2012 </time>
 
@@ -69,7 +74,7 @@
 
 * Contracted to build a small microcontroller based system for an electromechanical magic trick. 
 
-## Experiences <a id="Experiences"/>
+### Experiences <a id="Experiences"/>
 
 #### Speaker at [POSSCON](http://www.posscon.org/) <time> Mar. 29 2012 </time>
 
