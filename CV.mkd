@@ -7,10 +7,9 @@
 
 ### Things I've Made <a id="Projects"/>
 
-#### [TakkTile](http://biorobotics.harvard.edu/takktile/) <time> Spring and Summer 2012 </time>
+#### [TakkTile](http://biorobotics.harvard.edu/takktile/), by The Harvard BioRobotics Lab & Nonolith Labs. <time> Spring 2012 - Present </time>
 
-* Worked as ECE lead on the TakkTile project, a collaboration between the Harvard BioRobotics lab and Nonolith Labs. 
-* Developed firmware, software, and electrical design for a tactile localization array offering high sensitivity and high sample rate.
+* Developed firmware, software, and electrical design for the first tactile localization array that's robust, precise, and constructable with standard circuit assembly techniques. 
 
 #### [ASMLadder](http://github.com/itdaniher/asmladder), a variable abstraction code viewer for embedded development. <time> Summer 2012 </time>
 
