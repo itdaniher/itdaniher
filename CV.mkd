@@ -20,6 +20,7 @@
 
 * [The CEE][CEE] is a USB source-measure unit designed to be used as "cavalier instrumentation" - a general purpose tool for the curious to interact with the world around them.
 * ~150 CEEs shipped the first week of February to fulfill outstanding Kickstarter obligations.
+* Sales, development, and support are ongoing.
 
 #### [Protoflo, a Motion-Reactive Glow Toy](http://github.com/itdaniher/protoflo) <time> Fall 2011 </time>
 
@@ -79,6 +80,7 @@
 #### Speaker at [POSSCON](http://www.posscon.org/) <time> Mar. 29 2012 </time>
 
 * Gave a talk on my work with [Nonolith Labs][Nonolith] to ~40 people at a large open source conference in Charlotte, SC.
+* The slideshow from the talk can be viewed [here](content/presentations/KickstarterAndBeyond-POSSCON-03-27-12.pdf).
 
 #### CoFounder at [Nonolith Labs, LLC][Nonolith] <time> Jan. 2011 - Present </time>
 
@@ -89,7 +91,7 @@
 #### Organizer of [SCinciHacks](http://cincinnati.sciencehackday.com/) <time> Aug. 2011 - Oct. 22-23 2011 </time>
 
 * Organized a weekend long hackathon out of [Hive13](http://www.hive13.org/), attended by a dozen individuals ranging in age from 12 to 50.
-* Helped a team of undergraduate students produce a working plasma tweeter from scavenged a monitor flyback transformer and a 555.
+* Helped a team of undergraduate students produce a working plasma tweeter from scavenged a monitor flyback transformer and a breadboarded audio modulation circuit.
 
 #### Intern at iRobot Corporation <time> Jun. 2011 - Sept. 2011 </time>
 
@@ -134,5 +136,5 @@
 [Nonolith]: http://nonolithlabs.com/  "Nonolith Labs"
 [CHCA]: http://www.chca-oh.org/ "Cincinnati Hills Christian Academy"
 [CEE]: http://nonolithlabs.com/cee "The CEE"
-<br>
+<br />
 
