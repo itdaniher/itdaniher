@@ -9,7 +9,7 @@
 
 #### [TakkTile](http://biorobotics.harvard.edu/takktile/), by The Harvard BioRobotics Lab & Nonolith Labs. <time> Spring 2012 - Present </time>
 
-* Developed firmware, software, and electrical design for the first tactile localization array that's robust, precise, and constructable with standard circuit assembly techniques. 
+* Developed firmware, software, and electrical design for the first tactile localization array that's robust, precise, and constructible with standard circuit assembly techniques. 
 
 #### [ASMLadder](http://github.com/itdaniher/asmladder), a variable abstraction code viewer for embedded development. <time> Summer 2012 </time>
 
@@ -54,8 +54,8 @@
 
 #### Wiimote Headtracking System <time> Fall 2010 </time>
 
-* Build a proof of concept for a novel laparoscopic surgery control system. Pan/tilt gimbal constructed from hobby servos and angle aluminum.
-* Headtracking algorithm implemented in Python, communicated with wiimote over bluetooth. 
+* Built a proof of concept for a novel laparoscopic surgery control system. Pan/tilt gimbal constructed from hobby servos and angle aluminum.
+* Headtracking algorithm implemented in Python, communicated with Wii Remote over bluetooth. 
 
 #### Synesthesia, a Motion-Reactive Glow Poi <time> Summer 2010 </time>
 
@@ -110,7 +110,7 @@
 #### Founder at OLPCinci XO Repair Center <time> Winter 2007 - Mar. 2011 </time>
 
 * Worked with the One Laptop Per Child "Support Gang" to design and implement a supply chain for repairs of [XO Laptops](http://one.laptop.org/about/hardware).
-* Built a small business out of familiarity with this hardware and handled over 300 repair requests, in addition to over 100 non-repair tickets resolved.
+* Built a small business to service this popular low-cost laptop. Solved over 300 repair requests and an additional 100+ non-hardware support tickets. 
 
 #### Corporate Liaison with Olin IEEE <time> Oct. 2009 - May 2011 </time>
 
