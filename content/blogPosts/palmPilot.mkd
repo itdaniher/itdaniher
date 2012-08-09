@@ -13,13 +13,13 @@ Palm III
  * grandma et al gave me friend's broken palmpilots
 * backlit
  * no flashlight needed
-* rsrcMod
+* [RsrcEdit](http://www.quartus.net/products/rsrcedit/) - some information with [onboard suite](http://onboardc.sourceforge.net/UsersManual.html#history)
  * hack games
 * grokable
  * vague idea of what all the chips did, what a digitizer was, etc
 * ["zen of palm"](http://www.accessdevnet.com/docs/zenofpalm.pdf)
 * IR
  * OmniRemote
- * IRMon
+ * [IR Monitor](http://www.pamupamu.com/soft/irmoni/irm.htm)
  * chat program
  * sneakernet / trade games with friends at school
