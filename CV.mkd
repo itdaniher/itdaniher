@@ -82,6 +82,10 @@
 * Gave a talk on my work with [Nonolith Labs][Nonolith] to ~40 people at a large open source conference in Charlotte, SC.
 * The slideshow from the talk can be viewed [here](content/presentations/KickstarterAndBeyond-POSSCON-03-27-12.pdf).
 
+#### Attended New England Manipulation Symposium <time> May 4 2012 </time>
+
+* Attended New England Manipulation Symposium held at iRobot in Bedford, MA.
+
 #### CoFounder at [Nonolith Labs, LLC][Nonolith] <time> Jan. 2011 - Present </time>
 
 * Co-founded a company building tools enabling  makers and students to better explore the world around them. 
@@ -97,15 +101,34 @@
 
 * Working as an intern in iRobot's gov't/industrial research division building firmware for a novel compliant robotic hand.
 
+#### Attended "Autonomous Robotic Manipulation" Summit <time> Feb. 9-10, 2011 </time>
+
+* As a part of work executed with Harvard SEAS, I was able to attend DARPA's summit on the ARM-H project. 
+
+#### Electronics Intern with Harvard BioRobotics Lab <time> January 2011 </time>
+
+* Interned in the [Harvard Biorobotics Lab](http://biorobotics.harvard.edu/research.html#hands) over winter break.
+* Provided unorthodox solution to dead controller board on Phantom Desktop haptics controller.
+* Successfully prototyped several novel optical reflectance based tactile arrays, included soldering, molding, and data capture. 
+
 #### Stockroom manager at Olin College <time> Fall 2010 - Spring 2011 </time>
 
 * Coordinated weekly part purchases from Mouser, DigiKey, and Newark.
 * Was the de-facto advisor/support tech for student projects.
 * Was responsible for organizing, cleaning, and maintaining a glorified broom closet stuffed to the gills with awesome.
 
+#### Presenter at FOSSed <time> Summer 2010 </time>
+
+* Gave presentation at FOSSed Conference in Bethel, ME about the possibilities afforded by bringing physical computing platforms incl. the Arduino into the classroom.
+
+#### Developer for Open1to1 and Ubuntu Sugar Remix <time> June 2010 - January 2011 </time>
+
+* Gave talks at LinuxConf Boston and EdCamp Keene about benefits and rammifications of the Open1to1 educational linux distribution, especially implementations including One Laptop Per Child's "Sugar" UI and live USB keys.
+* Kept an [active development blog](http://itd-usr.blogspot.com/) of work on a mashup of Ubuntu Sugar Remix and Open1to1.
+
 #### Student at Olin College <time> Aug. 2009 - May 2011 </time>
 
-* Currently on leave of absence to pursue [Nonolith Labs.][Nonolith] Candidate for BS in Electrical Engineering.
+* Currently on leave of absence to pursue [Nonolith Labs.][Nonolith] Candidate for bachelors of science in something or another. 
 
 #### Founder at OLPCinci XO Repair Center <time> Winter 2007 - Mar. 2011 </time>
 
