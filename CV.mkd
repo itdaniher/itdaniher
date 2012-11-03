@@ -7,6 +7,11 @@
 
 ### Things I've Made <a id="Projects"/>
 
+#### Electrochemical cell for the production of potassium chlorate. <time> Oct. 2012 </time>
+
+* Designed and constructed a low-volume electrochemical cell to provide a testbed for the benchtop-scale production of the pyrotechnic oxidizer, potassium chlorate.
+* Mechanical design built around a 250ml pyrex beaker. Anode constructed from mixed-metal oxide coated titanium mesh. Cathode constructed from titanium sheet. Utilized CEE for power supply.
+
 #### [TakkTile](http://biorobotics.harvard.edu/takktile/), by The Harvard BioRobotics Lab & Nonolith Labs. <time> Spring 2012 - Present </time>
 
 * Developed firmware, software, and electrical design for the first tactile localization array that's robust, precise, and constructible with standard circuit assembly techniques. 
@@ -16,9 +21,9 @@
 * Presents code comments, C code, and low level assembly code side-by-side, reinforcing explicit connections between the abstractions present in microcontroller development. 
 * Demo hosted [here](http://itdaniher.github.com/asmladder/main.html).
 
-#### The CEE by [Nonolith Labs][Nonolith] <time> Spring 2011 - Present </time>
+#### CEE by [Nonolith Labs][Nonolith] <time> Spring 2011 - Present </time>
 
-* [The CEE][CEE] is a USB source-measure unit designed to be used as "cavalier instrumentation" - a general purpose tool for the curious to interact with the world around them.
+* [CEE][CEE] is a USB source-measure unit designed to be used as "cavalier instrumentation" - a general purpose tool for the curious to interact with the world around them.
 * ~150 CEEs shipped the first week of February to fulfill outstanding Kickstarter obligations.
 * Sales, development, and support are ongoing.
 
@@ -76,6 +81,18 @@
 * Contracted to build a small microcontroller based system for an electromechanical magic trick. 
 
 ### Experiences <a id="Experiences"/>
+
+#### Co-Teaching "Singing Tesla Coils" at [The Artisan's Asylum](http://artisansasylum.com/). <time> Nov. 2012 - Present </time>
+
+* Co-teaching an introductory electronics class at The Artisan's Asylum, a makerspace outside of Boston, MA.
+
+#### Teaching Assistant for Modern Biology at Olin College <time> Sep. 2012 - Present </time>
+
+* Provide mentorship and advice to students in the lab section of Olin's introductory biology course.
+
+#### Embedded Devices Contractor for Hughey & Phillips <time> June 2012 </time>
+
+* Worked as a contractor / consultant to handle a firmware migration and upgrade for a proprietary obstruction lighting design.
 
 #### Speaker at [POSSCON](http://www.posscon.org/) <time> Mar. 29 2012 </time>
 
