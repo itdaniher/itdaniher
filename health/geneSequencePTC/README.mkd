@@ -1,0 +1,17 @@
+Use (FinchTV Viewer)[http://www.geospiza.com/finchtv/download/programs/linux/finchtv_1_3_1.tar.gz] to open these files.
+
+As a part of Olin College of Engineering's class, "Introduction to Modern Biology," we were able to get a portion of our genome sequenced in an endeavor to explore polymorphisms and how they modify our sensitivity and ability to taste certain classes of bitter compounds.
+
+From Wikipedia:
+
+<code>
+
+Phenylthiocarbamide (PTC), also known as phenylthiourea (PTU), is an organosulfur thiourea containing a phenyl ring.
+
+It has the unusual property that it either tastes very bitter or is virtually tasteless, depending on the genetic makeup of the taster. The ability to taste PTC is a dominant genetic trait, and the test to determine PTC sensitivity is one of the most commonly used genetic tests on humans.
+
+...
+
+About 70% of people can taste PTC, varying from a low of 58% for indigenous peoples of Australia and New Guinea to 98% for indigenous peoples of the Americas.[2][dead link] One study has found that non-smokers and those not habituated to coffee or tea have a statistically higher percentage of tasting PTC than the general population.[3][4] PTC does not occur in food, but related chemicals do, and food choice is related to a person's ability to taste PTC.[3][5] There is conflicting evidence as to whether a higher percentage of women than men can taste PTC. It is highly toxic.[6]
+
+</code>
