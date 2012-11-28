@@ -1,4 +1,4 @@
-Use (FinchTV Viewer)[http://www.geospiza.com/ftvdlinfo.html] to open these files.
+Use [FinchTV Viewer](http://www.geospiza.com/ftvdlinfo.html) to open these files.
 
 As a part of Olin College of Engineering's class, "Introduction to Modern Biology," we were able to get a portion of our genome sequenced in an endeavor to explore polymorphisms and how they modify our sensitivity and ability to taste certain classes of bitter compounds.
 
