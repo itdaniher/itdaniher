@@ -1,0 +1,49 @@
+Submitted to Olin OSL 07/03/09
+
+--------------------
+ESSAYISH
+--------------------
+	As one would expect from an Oliner, I have diverse interests and heavy involvement in organizations both local and global. As friends and family have grown to expect from me, my interests are always in flux, and always straddling the border between scientific disciplines. Whether bridging the analog-digital divide, using the Arduino microcontroller platform and the Python scripting language to allow my computer to control my latest stationary robotics project, or applying my crossdisciplinary knowledge and passion towards electrochemistry or biological systems engineering, my projects always focus around providing an innovative fusion of ideas to ultimately benefit the world, my family, myself, or one of the many organizations I've found myself involved with. I wish to continue my efforts centered around increasing efficiency through decentralization (or, in some cases, centralization) of infrastructure and/or manufacturing.
+	Throughout my future time at Olin, I hope to maintain my extensive involvement with the One Laptop Per Child foundation and to discover new organizations with which to get involved in as I leave behind my hometown, where over the past eighteen years I have served extensively with my school, church, and community. 
+	I believe that my Olin education will lead to much personal growth. Specifically, I hope to garner greater appreciation for and knowledge of technical intricacies and system design. I also hope to conquer my deadline-oriented workflow, to hone my ability to communicate effectively with others, and have greater control over the direction of my studies. This personal growth will directly benefit me as, after graduation from Olin, I hope to find employment at a company where I can bring my creativity, problem solving skills and my crossdisciplinary passions to the table. 
+	All in all, I look forward to pursuing my crossdisciplinary scientific hobbies, growing as a person, and continuing the community involvement which has so far defined me as a person.
+--------------------
+OUTLINE OF CURRENT INTERESTS AND PROJECTS
+--------------------
+OLPC
+	OLPCinci repair center
+	peripheral development
+	telehealth module
+	hardware development
+chemistry
+	electrochemistry
+		electrochemical oxidation / aldehyde production
+		chlorate productions
+		chloralkali cell
+	organic chemistry
+		flavors
+		staple medicines
+	microscale industrial syntheses
+		reagent prep
+	energetic compounds
+electronics
+	power electronics
+	communication and control
+		see electrochemistry
+		biological system engineering
+infrastructure
+	protocols
+	hacker mindset
+	exploitation
+	suckless - simplicity is beauty
+computing
+	Linux
+	python
+	bash
+	digital I/O
+food
+	sushi
+	pancakes
+	cheese
+	mushrooms
+--------------------
