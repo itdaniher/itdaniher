@@ -7,12 +7,23 @@
 
 ### Things I've Made <a id="Projects"/>
 
+
+#### [Rust Libraries for SDR Work](https://github.com/search?q=%40itdaniher+rust&type=Repositories) <time> Summer 2013 - Present </time>
+
+* Implemented FM demodulation, overlap-scrap fast convolutional filtering, and a handful of high level IO abstractions for using the Rust programming language for Software Defined Radio experiments.
+* Made use of OpenCL, OpenGL, libusb, kissfft, SDL, and pulseaudio libraries.
+* Pull requests accepted into Rust-OpenCL, and Rust mainline projects.
+
+#### [150m digital radio link for $40](https://github.com/itdaniher/ADCommsNotebook/blob/master/ADComms_Final_Report_Daniher_Nazare_Singer.pdf?raw=true) <time> Spring 2013 </time>
+
+* Wrote C and Python to build a low-fi, low-bitrate digital radio link. Bitbang'ed rudimentary RF signals from a raspberry pi's GPIO pins, received using a RTLSDR low-cost SDR dongle.
+
 #### Electrochemical cell for the production of potassium chlorate. <time> Oct. 2012 </time>
 
 * Designed and constructed a low-volume electrochemical cell to provide a testbed for the benchtop-scale production of the pyrotechnic oxidizer, potassium chlorate.
 * Mechanical design built around a 250ml pyrex beaker. Anode constructed from mixed-metal oxide coated titanium mesh. Cathode constructed from titanium sheet. Utilized CEE for power supply.
 
-#### [TakkTile](http://biorobotics.harvard.edu/takktile/), by The Harvard BioRobotics Lab & Nonolith Labs. <time> Spring 2012 - Present </time>
+#### [TakkTile](http://biorobotics.harvard.edu/takktile/), by The Harvard BioRobotics Lab & Nonolith Labs. <time> Spring 2012 - Spring 2013 </time>
 
 * Developed firmware, software, and electrical design for the first tactile localization array that's robust, precise, and constructible with standard circuit assembly techniques. 
 
@@ -82,7 +93,15 @@
 
 ### Experiences <a id="Experiences"/>
 
-#### Co-Teaching "Singing Tesla Coils" at [The Artisan's Asylum](http://artisansasylum.com/). <time> Nov. 2012 - Present </time>
+#### Olin College Electrical & COmputer Stockroom Manager <time> Fall 2013 - Present </time>
+
+* Resumed role as point person for Olin College's ECE Stockroom. Manage accounts with Digikey, Mouser, Newark, and SparkFun.
+
+#### R&D Intern at Analog Devices <time> Summer 2013 </time>
+
+* Undertook a comprehensive redesign of CEE as an R&D electrical design intern at Analog Devices. 
+
+#### Co-Teaching "Singing Tesla Coils" at [The Artisan's Asylum](http://artisansasylum.com/). <time> Nov. 2012 </time>
 
 * Co-teaching an introductory electronics class at The Artisan's Asylum, a makerspace outside of Boston, MA.
 
