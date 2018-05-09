@@ -1,1 +1,3 @@
 collected records from Pandora, including summary table.
+extensively utilized 2009-2013.
+raw files include all likes across all stations.
